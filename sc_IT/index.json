@@ -1,0 +1,6375 @@
+{
+    "accessibility": {
+        "doubleTapToActivateHint": "",
+        "buttons": {
+            "navigateBack": "",
+            "torch": {
+                "turnOn": "",
+                "turnOff": ""
+            }
+        }
+    },
+    "date": {
+        "formats": {
+            "default": "",
+            "short": "",
+            "long": ""
+        },
+        "day_names": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "abbr_day_names": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "month_names": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "abbr_month_names": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "meridian": [
+            "",
+            ""
+        ],
+        "time": {
+            "minutes": {
+                "zero": "",
+                "one": "",
+                "two": "",
+                "few": "",
+                "many": "",
+                "other": ""
+            },
+            "seconds": {
+                "zero": "",
+                "one": "",
+                "two": "",
+                "few": "",
+                "many": "",
+                "other": ""
+            }
+        }
+    },
+    "global": {
+        "why": "",
+        "you": "",
+        "id": "",
+        "badges": {
+            "blocked": "",
+            "onGoing": "",
+            "failed": "",
+            "cancelled": "",
+            "reversal": "",
+            "new": ""
+        },
+        "modules": {
+            "paymentNotice": {
+                "badges": {
+                    "paid": "",
+                    "error": "",
+                    "expired": "",
+                    "revoked": "",
+                    "canceled": "",
+                    "inprogress": ""
+                }
+            }
+        },
+        "password": "",
+        "username": "",
+        "disclaimer_beta": "",
+        "unknown": "",
+        "sectionStatus": {
+            "moreInfo": ""
+        },
+        "accessibility": {
+            "minusSymbol": "",
+            "reload": "",
+            "search": "",
+            "switchLabel": "",
+            "inputLabel": "",
+            "textField": "",
+            "description": "",
+            "dateField": "",
+            "threeDigits": "",
+            "fourDigits": "",
+            "dateFormat": "",
+            "expanded": "",
+            "collapsed": "",
+            "active": "",
+            "inactive": "",
+            "linkHint": "",
+            "alert": "",
+            "activityIndicator": {
+                "label": "",
+                "hint": ""
+            },
+            "header": {
+                "label": ""
+            },
+            "contextualHelp": {
+                "close": "",
+                "open": {
+                    "label": "",
+                    "hint": ""
+                }
+            },
+            "list": {
+                "counter": ""
+            },
+            "progressTracker": ""
+        },
+        "symbols": {
+            "question": "",
+            "asterisk": ""
+        },
+        "localization": {
+            "delimiterSeparator": "",
+            "decimalSeparator": ""
+        },
+        "date": {
+            "invalid": "",
+            "today": "",
+            "tomorrow": ""
+        },
+        "dateFormats": {
+            "shortFormat": "",
+            "shortFormatWithTime": "",
+            "fullFormatShortMonthLiteral": "",
+            "fullFormatShortMonthLiteralWithTime": "",
+            "fullFormatShortMonthLiteralWithoutTime": "",
+            "fullFormatFullMonthLiteral": "",
+            "fullMonthLiteral": "",
+            "fullMonthLiteralWithYear": "",
+            "timeFormat": "",
+            "timeFormatWithTimezone": "",
+            "dayMonthWithTime": "",
+            "dayMonthWithoutTime": "",
+            "dayFullMonth": "",
+            "numericMonthYear": "",
+            "shortNumericMonthYear": "",
+            "monthYear": "",
+            "dayAndMonth": "",
+            "dayMonth": "",
+            "dayMonthYear": "",
+            "weekdayDayMonthYear": "",
+            "dateTimePicker": ""
+        },
+        "genericError": "",
+        "genericAlert": "",
+        "genericWaiting": "",
+        "genericThanks": "",
+        "genericShare": "",
+        "genericSave": "",
+        "genericRetry": "",
+        "jserror": {
+            "title": "",
+            "message": ""
+        },
+        "markdown": {
+            "reference": "",
+            "decodeError": ""
+        },
+        "buttons": {
+            "consent": "",
+            "deny": "",
+            "share": "",
+            "delete": "",
+            "cancel": "",
+            "settings": "",
+            "ok": "",
+            "ok2": "",
+            "continue": "",
+            "notNow": "",
+            "retry": "",
+            "back": "",
+            "confirm": "",
+            "close": "",
+            "exit": "",
+            "saveSelection": "",
+            "search": "",
+            "skip": "",
+            "add": "",
+            "edit": "",
+            "info": "",
+            "activate": "",
+            "activate2": "",
+            "deactivate": "",
+            "show": "",
+            "update": "",
+            "updateIO": "",
+            "findOutMore": "",
+            "details": "",
+            "choose": "",
+            "copy": "",
+            "selectAll": "",
+            "deselectAll": ""
+        },
+        "navigator": {
+            "messages": "",
+            "wallet": "",
+            "scan": "",
+            "payments": "",
+            "documents": "",
+            "profile": "",
+            "services": ""
+        },
+        "actions": {
+            "retry": "",
+            "search": ""
+        },
+        "remoteStates": {
+            "loading": "",
+            "wait": "",
+            "notAvailable": ""
+        },
+        "notImplemented": "",
+        "search": {
+            "invalidSearchBarText": "",
+            "noResultsFound": "",
+            "noResultsTitle": ""
+        },
+        "offline": {
+            "screen": {
+                "title": "",
+                "subtitle": "",
+                "action": ""
+            },
+            "statusMessage": {
+                "message": "",
+                "action": ""
+            },
+            "connectionRestored": "",
+            "bottomSheet": {
+                "title": "",
+                "content": ""
+            },
+            "toast": ""
+        }
+    },
+    "tablet": {
+        "message": ""
+    },
+    "appFeedback": {
+        "toast": {
+            "negativeFeedback": ""
+        },
+        "alert": {
+            "title": "",
+            "description": "",
+            "continue": "",
+            "discard": ""
+        },
+        "bottomSheet": {
+            "title": "",
+            "description": "",
+            "continue": "",
+            "discard": ""
+        }
+    },
+    "rooted": {
+        "title": "",
+        "body": "",
+        "learnMoreButton": {
+            "title": ""
+        },
+        "learnMoreBottomsheet": {
+            "title": ""
+        },
+        "bodyiOS": "",
+        "bodyAndroid": "",
+        "continueAlert": {
+            "title": ""
+        },
+        "cancelAlert": {
+            "title": ""
+        }
+    },
+    "locales": {
+        "it": "",
+        "en": "",
+        "de": ""
+    },
+    "clipboard": {
+        "copyIntoClipboard": "",
+        "copyFeedback": "",
+        "copyText": "",
+        "copyFeedbackButton": ""
+    },
+    "errors": {
+        "loginError": "",
+        "profileUpdateError": ""
+    },
+    "permissionRationale": {
+        "storage": {
+            "title": "",
+            "message": ""
+        },
+        "camera": {
+            "title": "",
+            "message": ""
+        },
+        "calendar": {
+            "title": "",
+            "message": ""
+        },
+        "torch": {
+            "title": "",
+            "message": ""
+        }
+    },
+    "startup": {
+        "title": "",
+        "title2": "",
+        "authentication": "",
+        "sessionInfo": "",
+        "profileInfo": "",
+        "profileEnabled": "",
+        "userDeletePendingAlert": {
+            "title": "",
+            "message": "",
+            "cta_1": "",
+            "cta_2": ""
+        },
+        "contextualHelp": {
+            "title": ""
+        },
+        "connection_lost": {
+            "title": "",
+            "description": ""
+        },
+        "slowdowns_results_screen": {
+            "title": "",
+            "subtitle": ""
+        },
+        "cdn_unreachable_results_screen": {
+            "title": "",
+            "subtitle": ""
+        }
+    },
+    "login": {
+        "help_banner_title": "",
+        "help_banner_content": "",
+        "help_banner_action": "",
+        "biometric_info": ""
+    },
+    "inbox": {
+        "enableButton": "",
+        "disableButton": "",
+        "enableCallToActionDescription": ""
+    },
+    "settings": {
+        "informativeBanner": {
+            "content": "",
+            "action": ""
+        }
+    },
+    "profile": {
+        "fiscalCode": {
+            "accessibility": {
+                "fiscalCodeHint": "",
+                "unavailable": ""
+            },
+            "title": "",
+            "fiscalCode": "",
+            "description": "",
+            "help": "",
+            "facSimile": "",
+            "copyCode": "",
+            "codeCopied": ""
+        },
+        "sections": {
+            "spid": ""
+        },
+        "unknown": "",
+        "appFeedback": {
+            "reviewLabel": "",
+            "feedbackLabel": ""
+        },
+        "logout": {
+            "menulabel": "",
+            "alertTitle": "",
+            "alertMessage": "",
+            "activeWiAlertMessage": "",
+            "loading": "",
+            "exit": ""
+        },
+        "errors": {
+            "load": "",
+            "upsert": ""
+        },
+        "main": {
+            "title": "",
+            "logout": "",
+            "forgetCurrentSession": "",
+            "clearAsyncStorage": "",
+            "dumpAsyncStorage": "",
+            "sentryTestEvent": "",
+            "storeReview": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": "",
+            "developerModeOn": "",
+            "cache": {
+                "alert": "",
+                "clear": "",
+                "cleared": ""
+            },
+            "data": {
+                "title": "",
+                "description": ""
+            },
+            "preferences": {
+                "title": "",
+                "description": ""
+            },
+            "security": {
+                "title": "",
+                "description": ""
+            },
+            "privacy": {
+                "title": "",
+                "description": "",
+                "subtitle": "",
+                "loading": "",
+                "status": "",
+                "errorMessage": "",
+                "removeAccount": {
+                    "title": "",
+                    "description": "",
+                    "alert": {
+                        "activeBonusTitle": "",
+                        "activeBonusDescription": "",
+                        "oldRequest": "",
+                        "oldRequestSubtitle": "",
+                        "cta": {
+                            "manageBonus": "",
+                            "continue": "",
+                            "return": "",
+                            "cancel": ""
+                        }
+                    },
+                    "info": {
+                        "title": "",
+                        "description": "",
+                        "banner": "",
+                        "body": {
+                            "p1": "",
+                            "p2": {
+                                "firstPart": "",
+                                "lastPart": ""
+                            },
+                            "p3": ""
+                        },
+                        "cta": ""
+                    },
+                    "details": {
+                        "title": "",
+                        "body": "",
+                        "question": "",
+                        "answer_1": "",
+                        "answer_2": "",
+                        "answer_3": "",
+                        "answer_4": "",
+                        "labelOpenAnswer": "",
+                        "cta": ""
+                    },
+                    "success": {
+                        "title": "",
+                        "body": "",
+                        "cta": ""
+                    }
+                },
+                "exportData": {
+                    "cta": "",
+                    "title": "",
+                    "subtitle": "",
+                    "description": "",
+                    "a11y": "",
+                    "detail": {
+                        "bulletList": {
+                            "title": "",
+                            "item1": "",
+                            "item2": "",
+                            "item3": "",
+                            "item4": ""
+                        },
+                        "paragraph1": "",
+                        "paragraph2": {
+                            "part1": "",
+                            "part2": "",
+                            "part3": ""
+                        },
+                        "paragraph3": {
+                            "part1": "",
+                            "link": ""
+                        }
+                    },
+                    "alert": {
+                        "requestTitle": "",
+                        "oldRequest": "",
+                        "confirmSubtitle": ""
+                    },
+                    "error": ""
+                },
+                "privacyPolicy": {
+                    "title": "",
+                    "description": "",
+                    "header": "",
+                    "updated": "",
+                    "infobox": "",
+                    "contextualHelpTitlePolicy": "",
+                    "contextualHelpContentPolicy": "",
+                    "contextualHelpTitle": "",
+                    "contextualHelpContent": ""
+                },
+                "shareData": {
+                    "title": "",
+                    "listItem": {
+                        "title": "",
+                        "description": ""
+                    },
+                    "screen": {
+                        "title": "",
+                        "description": "",
+                        "why": {
+                            "description": {
+                                "one": "",
+                                "two": "",
+                                "three": ""
+                            },
+                            "cta": ""
+                        },
+                        "security": {
+                            "description": {
+                                "one": "",
+                                "two": "",
+                                "three": ""
+                            },
+                            "cta": ""
+                        },
+                        "gdpr": {
+                            "description": {
+                                "zero": "",
+                                "one": "",
+                                "two": "",
+                                "few": "",
+                                "many": "",
+                                "other": ""
+                            },
+                            "cta": ""
+                        },
+                        "additionalInformation": {
+                            "description": "",
+                            "cta": ""
+                        },
+                        "profileSettings": "",
+                        "cta": {
+                            "shareData": "",
+                            "dontShareData": "",
+                            "dontShare": ""
+                        },
+                        "confirmToast": ""
+                    },
+                    "alert": {
+                        "title": "",
+                        "body": ""
+                    },
+                    "whyBottomSheet": {
+                        "title": "",
+                        "body": ""
+                    },
+                    "securityBottomSheet": {
+                        "title": "",
+                        "body": ""
+                    }
+                }
+            },
+            "appInfo": {
+                "title": "",
+                "description": "",
+                "subtitle": "",
+                "paragraphTitle": "",
+                "paragraphBody1": "",
+                "paragraphBody2": "",
+                "bannerBody": "",
+                "bannerButton": ""
+            },
+            "developersSectionHeader": "",
+            "testEnvironmentSectionHeader": "",
+            "pagoPaEnvironment": {
+                "pagoPaEnv": "",
+                "pagoPAEnvAlert": "",
+                "pagoPAEnvAlertLocal": "",
+                "alertConfirmTitle": "",
+                "alertConfirmMessage": "",
+                "alertMessage": ""
+            },
+            "pnEnvironment": {
+                "pnEnv": ""
+            },
+            "idpay": {
+                "idpayTest": "",
+                "idpayTestAlert": ""
+            },
+            "loginEnvironment": {
+                "activeSession": {
+                    "switchTitle": ""
+                }
+            },
+            "trial": {
+                "titleSection": ""
+            },
+            "experimentalEnvironment": "",
+            "newScanSection": "",
+            "sessionRefresh": "",
+            "appVersion": "",
+            "backendVersion": "",
+            "debugMode": "",
+            "designSystem": "",
+            "addTestCard": {
+                "title": ""
+            },
+            "banner": {
+                "title": "",
+                "action": "",
+                "close": ""
+            },
+            "appearanceBanner": {
+                "title": "",
+                "action": ""
+            }
+        },
+        "data": {
+            "title": "",
+            "subtitle": "",
+            "list": {
+                "email": "",
+                "need_validate": "",
+                "nameSurname": "",
+                "fiscalCode": ""
+            }
+        },
+        "security": {
+            "title": "",
+            "subtitle": "",
+            "list": {
+                "biometric_recognition": {
+                    "title": "",
+                    "subtitle": "",
+                    "needed_to_disable": ""
+                }
+            }
+        },
+        "preferences": {
+            "title": "",
+            "subtitle": "",
+            "genericToastTitle": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": "",
+            "list": {
+                "wip": "",
+                "digitalDomicile": "",
+                "service_contact": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "send_email_messages": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "appearance": {
+                    "title": "",
+                    "subtitle": "",
+                    "typefaceStyle": {
+                        "title": "",
+                        "comfortable": {
+                            "title": "",
+                            "description": ""
+                        },
+                        "standard": {
+                            "title": "",
+                            "description": ""
+                        }
+                    },
+                    "theme": {
+                        "title": "",
+                        "comingSoon": "",
+                        "automatic": {
+                            "title": "",
+                            "description": ""
+                        },
+                        "light": "",
+                        "dark": ""
+                    }
+                },
+                "language": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "preferred_calendar": {
+                    "title": "",
+                    "description": ""
+                },
+                "preferred_language": {
+                    "title": "",
+                    "subtitle": "",
+                    "alert": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "toast": {
+                        "success": {
+                            "title": ""
+                        }
+                    },
+                    "not_selected": "",
+                    "banner": {
+                        "button": ""
+                    }
+                },
+                "notifications": {
+                    "title": "",
+                    "subtitle": ""
+                }
+            },
+            "unavailable": {
+                "title": ""
+            },
+            "language": {
+                "contextualHelpTitle": "",
+                "contextualHelpContent": ""
+            },
+            "email": {
+                "forward": {
+                    "contextualHelpTitle": "",
+                    "contextualHelpContent": ""
+                }
+            },
+            "calendar": {
+                "contextualHelpTitle": "",
+                "contextualHelpContent": "",
+                "local_calendar": "",
+                "birthday_calendar": ""
+            },
+            "notifications": {
+                "contextualHelpTitle": "",
+                "contextualHelpContent": "",
+                "header": "",
+                "title": "",
+                "subtitle": "",
+                "titleExistingUser": "",
+                "subtitleExistingUser": "",
+                "reminders": {
+                    "title": "",
+                    "description": ""
+                },
+                "preview": {
+                    "title": "",
+                    "description": "",
+                    "link": "",
+                    "bottomSheet": {
+                        "title": "",
+                        "content": "",
+                        "cta": ""
+                    }
+                },
+                "error": ""
+            }
+        }
+    },
+    "navigation": {
+        "messages": "",
+        "profile": "",
+        "accessibility": "",
+        "accessibilityWithBadge": "",
+        "selected": ""
+    },
+    "cie": {
+        "title": "",
+        "layCardMessageHeader": "",
+        "layCardMessageFooter": "",
+        "booking_url": ""
+    },
+    "spid": {
+        "login": "",
+        "loginButton": "",
+        "selectIdp": "",
+        "selectDemoIdp": "",
+        "loginErrorAlert": {
+            "title": ""
+        },
+        "pending_login": {
+            "title": "",
+            "details": "",
+            "button": ""
+        }
+    },
+    "authentication": {
+        "landing": {
+            "accessibility": {
+                "carousel": {
+                    "label": "",
+                    "hint": ""
+                }
+            },
+            "useful_resources": {
+                "bottomSheet": {
+                    "title": "",
+                    "privacy_policy": "",
+                    "manage_access": "",
+                    "io_more_informations": ""
+                }
+            },
+            "session_expired": {
+                "title": "",
+                "body": "",
+                "linkButtonLabel": ""
+            },
+            "session_corrupted": {
+                "title": "",
+                "body": "",
+                "linkButtonLabel": ""
+            },
+            "active_session_login": {
+                "title": "",
+                "body": ""
+            },
+            "cie_bottom_sheet": {
+                "title": "",
+                "module_cie_pin": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "module_cie_id": {
+                    "title": "",
+                    "subtitle": "",
+                    "badge": ""
+                },
+                "help_banner": {
+                    "title": "",
+                    "action": ""
+                }
+            },
+            "contentTitleCie": "",
+            "cie_information_request": "",
+            "spid_or_cie": "",
+            "request_cie": "",
+            "request_spid": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": "",
+            "loginSpid": "",
+            "loginCie": "",
+            "show_wallet": "",
+            "loginSpidCie": "",
+            "infoSpidCie": "",
+            "loginSpidCieContent": "",
+            "privacyLink": "",
+            "nospid": "",
+            "nospid-nocie": "",
+            "card0-title": "",
+            "card0-content": "",
+            "card0-content-accessibility": "",
+            "card1-title": "",
+            "card1-content": "",
+            "card2-title": "",
+            "card2-content": "",
+            "card3-title": "",
+            "card3-content": "",
+            "card4-title": "",
+            "card4-content": "",
+            "expiredCardTitle": "",
+            "expiredCardHeaderTitle": "",
+            "expiredCardContent": "",
+            "expiredCardHelp": "",
+            "tour_guide": {
+                "title": "",
+                "content": ""
+            }
+        },
+        "cieidUrlErrorScreen": {
+            "title": "",
+            "description": ""
+        },
+        "wizards": {
+            "cie_id_wizard": {
+                "title": "",
+                "description": "",
+                "actions": {
+                    "primary": {
+                        "label": ""
+                    },
+                    "secondary": {
+                        "label": ""
+                    }
+                },
+                "link": ""
+            },
+            "cie_pin_wizard": {
+                "title": "",
+                "description": "",
+                "actions": {
+                    "primary": {
+                        "label": ""
+                    },
+                    "secondary": {
+                        "label": ""
+                    }
+                },
+                "bottom_sheet": {
+                    "title": "",
+                    "content": "",
+                    "link": "",
+                    "cta": {
+                        "label": ""
+                    }
+                }
+            },
+            "spid_wizard": {
+                "title": "",
+                "description": "",
+                "actions": {
+                    "primary": {
+                        "label": ""
+                    },
+                    "secondary": {
+                        "label": ""
+                    }
+                }
+            },
+            "id_activation_wizard": {
+                "title": "",
+                "description": "",
+                "list_items": {
+                    "title": "",
+                    "request_cie": {
+                        "label": ""
+                    },
+                    "activate_cie": {
+                        "title": ""
+                    },
+                    "activate_spid": {
+                        "title": ""
+                    }
+                },
+                "actions": {
+                    "primary": {
+                        "label": ""
+                    }
+                }
+            }
+        },
+        "auth_errors": {
+            "error_19": {
+                "title": "",
+                "subtitle": ""
+            },
+            "error_20": {
+                "title": "",
+                "subtitle": ""
+            },
+            "error_21": {
+                "title": "",
+                "subtitle": ""
+            },
+            "error_22": {
+                "title": "",
+                "subtitle": ""
+            },
+            "error_23": {
+                "title": "",
+                "subtitle": ""
+            },
+            "error_25": {
+                "title": "",
+                "subtitle": ""
+            },
+            "error_1001": {
+                "title": "",
+                "subtitle": ""
+            },
+            "missing_saml_response": {
+                "title": "",
+                "subtitle": ""
+            },
+            "not_same_cf": {
+                "title": "",
+                "subtitle": "",
+                "button": ""
+            },
+            "generic": {
+                "title": "",
+                "subtitle": ""
+            }
+        },
+        "cie_id": {
+            "error_screen": {
+                "title": "",
+                "cie_pin_supported": {
+                    "description": "",
+                    "primary_action_label": ""
+                },
+                "cie_pin_not_supported": {
+                    "description": "",
+                    "primary_action_label": ""
+                },
+                "secondary_action_label": ""
+            },
+            "cie_not_installed": {
+                "title": "",
+                "description": "",
+                "primary_action_label": "",
+                "link_error": ""
+            },
+            "feature_not_already_implemented": ""
+        },
+        "cie": {
+            "genericTitle": "",
+            "cie": "",
+            "noDataTitle": "",
+            "authToSendData": "",
+            "nfc": {
+                "apduNotSupported": "",
+                "retry": "",
+                "noNfcConnectionTitle": "",
+                "noNfcConnectionContent": "",
+                "title": "",
+                "subtitle": "",
+                "listItemTitle": "",
+                "action": "",
+                "listItemLabel1": "",
+                "listItemValue1": "",
+                "listItemLabel2": "",
+                "listItemValue2": "",
+                "listItemLabel3": "",
+                "listItemValue3": "",
+                "activeNfcAlert": "",
+                "activeNFCAlertButton": ""
+            },
+            "pin": {
+                "accessibility": {
+                    "placeholderLabel": "",
+                    "label": "",
+                    "hint": "",
+                    "deleteLabel": ""
+                },
+                "pinCardTitle": "",
+                "pinCardHeader": "",
+                "pinCardContent": "",
+                "incorrectCiePinTitle1": "",
+                "incorrectCiePinTitle2": "",
+                "lockedCiePinTitle": "",
+                "incorrectCiePinContent1": "",
+                "incorrectCiePinContent2": "",
+                "incorrectCiePinSecondaryActionLabel2": "",
+                "lockedCiePinContent": "",
+                "lockedSecondaryActionLabel": "",
+                "alert": "",
+                "subtitleHelp": "",
+                "subtitleCTA": "",
+                "bottomSheetCTA": "",
+                "contextualHelpTitle": "",
+                "contextualHelpBody": "",
+                "contextualHelpCTA": ""
+            },
+            "pinTempLocked": {
+                "title": ""
+            },
+            "card": {
+                "title": "",
+                "titleiOS": "",
+                "layCardMessageHeader": "",
+                "layCardMessageHeaderiOS": "",
+                "layCardMessageFooter": "",
+                "cieCardValid": "",
+                "readerCardTitle": "",
+                "readerCardHeader": "",
+                "readerCardFooter": "",
+                "iosAlert": {
+                    "readingInstructions": "",
+                    "moreTags": "",
+                    "readingInProgress": "",
+                    "readingSuccess": "",
+                    "invalidCard": "",
+                    "tagLost": "",
+                    "cardLocked": "",
+                    "wrongPin1AttemptLeft": "",
+                    "wrongPin2AttemptLeft": "",
+                    "genericError": ""
+                },
+                "error": {
+                    "readerCardLostTitle": "",
+                    "onTagLost": "",
+                    "tryAgain": "",
+                    "generic": "",
+                    "unknownCardTitle": "",
+                    "unknownCardContent": "",
+                    "unknownCardHelpLink": "",
+                    "genericErrorTitle": "",
+                    "genericErrorSubtitle": ""
+                }
+            }
+        },
+        "spid": "",
+        "spid_information_request": {
+            "headerTitle": "",
+            "contentTitle": ""
+        },
+        "spid_information": {
+            "spid": "",
+            "headerTitle": "",
+            "contentTitle": "",
+            "subtitle": ""
+        },
+        "opt_in": {
+            "contextualHelpTitle": "",
+            "contextualHelpContent": "",
+            "news": "",
+            "title": "",
+            "identity_check": "",
+            "security_suggests": "",
+            "passcode": "",
+            "notification": "",
+            "button_accept_lv": "",
+            "button_decline_lv": ""
+        },
+        "security_suggestions": {
+            "fingerprint": "",
+            "io_logout": "",
+            "io_lock_access": "",
+            "access_new_device": "",
+            "navigate_to_the_site": ""
+        },
+        "idp_selection": {
+            "headerTitle": "",
+            "contentTitle": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": ""
+        },
+        "idp_login": {
+            "headerTitle": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": "",
+            "contextualHelpTitle2": "",
+            "openTicket": "",
+            "recoverDescription": "",
+            "dualRecoverDescription": "",
+            "recoverUsername": "",
+            "recoverPassword": "",
+            "poste_id": {
+                "bottom_sheet": {
+                    "title": "",
+                    "description": "",
+                    "feature_1": "",
+                    "feature_2": "",
+                    "feature_3": ""
+                }
+            }
+        },
+        "idp_login_success": {
+            "contentTitle": ""
+        },
+        "errors": {
+            "notoken": "",
+            "logout": "",
+            "network": {
+                "title": "",
+                "body": ""
+            },
+            "login": {
+                "title": ""
+            }
+        },
+        "expiredSessionBanner": {
+            "title": ""
+        },
+        "unlock": {
+            "title": "",
+            "subtitlel2": "",
+            "subtitlel3": "",
+            "learnmore": "",
+            "loginIO": ""
+        },
+        "unlockmodal": {
+            "title": "",
+            "description1_1": "",
+            "description1_2": "",
+            "description1_3": "",
+            "description1_4": "",
+            "title2": "",
+            "listitem1": "",
+            "listitem2_1": "",
+            "listitem2_2": "",
+            "listitem3_1": "",
+            "listitem3_2": "",
+            "listitem3_3": "",
+            "listitem3_4": "",
+            "listitem3_5": ""
+        }
+    },
+    "email": {
+        "cduScreens": {
+            "validateMail": {
+                "title": "",
+                "subtitle": "",
+                "editButton": "",
+                "validateButton": "",
+                "header": {
+                    "title": ""
+                },
+                "help": {
+                    "body": ""
+                }
+            },
+            "emailAlreadyTaken": {
+                "title": "",
+                "subtitleStart": "",
+                "subtitleEnd": "",
+                "editButton": "",
+                "header": {
+                    "title": ""
+                },
+                "help": {
+                    "body": ""
+                }
+            }
+        },
+        "read": {
+            "title": "",
+            "info": "",
+            "alert": "",
+            "help": ""
+        },
+        "insert": {
+            "header": "",
+            "title": "",
+            "subtitle": "",
+            "label": "",
+            "alert": "",
+            "help": {
+                "title": "",
+                "content": ""
+            },
+            "alertTitle": "",
+            "alertDescription": "",
+            "alertButton": ""
+        },
+        "newinsert": {
+            "header": "",
+            "title": "",
+            "subtitle": "",
+            "label": "",
+            "alert": {
+                "title": "",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "invalidemail": "",
+                "modaltitle": "",
+                "modaldescription": "",
+                "modalbutton": "",
+                "validemaila11y": "",
+                "invalidemaila11y": ""
+            }
+        },
+        "edit": {
+            "title": "",
+            "subtitle": "",
+            "validated": "",
+            "label": "",
+            "cta": "",
+            "upsert_ok": "",
+            "upsert_ko": ""
+        },
+        "validate": {
+            "title": "",
+            "header": "",
+            "content1": "",
+            "content2": "",
+            "cta": "",
+            "sent": "",
+            "send_validation_ok": "",
+            "send_validation_ko": "",
+            "help": "",
+            "validation_ok": "",
+            "validated": "",
+            "validated_ok": ""
+        },
+        "newvalidate": {
+            "title": "",
+            "subtitle": "",
+            "link": "",
+            "countdowntext": "",
+            "buttonlabelsent": "",
+            "buttonlabelsentagain": "",
+            "toast": ""
+        },
+        "newvalidemail": {
+            "title": "",
+            "subtitle": ""
+        }
+    },
+    "onboarding": {
+        "contextualHelpTitle": "",
+        "contextualHelpContent": "",
+        "tos": {
+            "headerTitle": "",
+            "accept": "",
+            "error": "",
+            "alert": {
+                "title": "",
+                "message": ""
+            }
+        },
+        "unlockCode": {
+            "reset": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": ""
+        },
+        "pin": {
+            "headerTitle": "",
+            "title": "",
+            "subTitle": "",
+            "pinLabel": "",
+            "pinConfirmationLabel": "",
+            "errors": {
+                "invalid": {
+                    "title": "",
+                    "description": "",
+                    "cta": ""
+                },
+                "match": ""
+            },
+            "policy": {
+                "title": "",
+                "description": "",
+                "bulletListTitle": "",
+                "firstItem": "",
+                "secondItem": ""
+            },
+            "success": {
+                "message": ""
+            }
+        },
+        "pinConfirmation": {
+            "title": "",
+            "errors": {
+                "match": {
+                    "title": "",
+                    "cta": ""
+                }
+            }
+        },
+        "alert": {
+            "title": "",
+            "description": ""
+        },
+        "exitAlert": {
+            "title": "",
+            "description": ""
+        },
+        "biometric": {
+            "headerTitle": "",
+            "available": {
+                "title": "",
+                "settings": "",
+                "body": {
+                    "text": "",
+                    "infoStart": "",
+                    "biometricType": "",
+                    "infoEnd": "",
+                    "enrolledText": "",
+                    "notEnrolled": {
+                        "text": "",
+                        "label": "",
+                        "step1": {
+                            "label": "",
+                            "value": ""
+                        },
+                        "step2": {
+                            "label": "",
+                            "value": ""
+                        },
+                        "step3": {
+                            "label": "",
+                            "value": ""
+                        }
+                    }
+                }
+            },
+            "unavailable": {
+                "title": "",
+                "subtitle": "",
+                "body": {
+                    "label": "",
+                    "step1": {
+                        "label": "",
+                        "value": ""
+                    },
+                    "step2": {
+                        "label": "",
+                        "value": ""
+                    }
+                }
+            }
+        },
+        "shareData": {
+            "title": ""
+        },
+        "thankYouPage": {
+            "title": ""
+        },
+        "notifications": {
+            "badge": "",
+            "headerTitle": "",
+            "continue": "",
+            "preview": {
+                "accessibilityLabelPrefix": "",
+                "reminderOnPreviewOnTitle": "",
+                "reminderOnPreviewOnMessage": "",
+                "reminderOffPreviewOnTitle": "",
+                "reminderOffPreviewOnMessage": "",
+                "reminderOnPreviewOffTitle": "",
+                "reminderOnPreviewOffMessage": "",
+                "reminderOffPreviewOffTitle": "",
+                "reminderOffPreviewOffMessage": ""
+            },
+            "contextualHelpTitle": "",
+            "contextualHelpContent": ""
+        },
+        "infoConsent": {
+            "headerTitle": "",
+            "title": "",
+            "subTitle": "",
+            "openSettings": "",
+            "continue": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": "",
+            "instructions": {
+                "title": "",
+                "label": "",
+                "ios": {
+                    "step1": "",
+                    "step2": "",
+                    "step3": ""
+                },
+                "android": {
+                    "step1": "",
+                    "step2": "",
+                    "step3": "",
+                    "step4": "",
+                    "step5": ""
+                }
+            }
+        }
+    },
+    "datetimes": {
+        "yesterday": "",
+        "todayAt": "",
+        "notValid": ""
+    },
+    "payment": {
+        "alertNoPaymentMethods": {
+            "title": "",
+            "message": "",
+            "buttons": {
+                "ok": "",
+                "ko": ""
+            }
+        },
+        "alertNoActivePaymentMethods": {
+            "title": "",
+            "message": "",
+            "buttons": {
+                "ok": "",
+                "ko": ""
+            }
+        },
+        "abortWebView": {
+            "title": "",
+            "confirm": "",
+            "cancel": "",
+            "success": ""
+        },
+        "errorDetails": "",
+        "currentPsp": "",
+        "noPsp": "",
+        "changePsp": "",
+        "IUV": "",
+        "IUV_extended": "",
+        "notice": "",
+        "noticeCode": "",
+        "recipientFiscalCode": "",
+        "paidConfirm": "",
+        "details": {
+            "state": {
+                "successful": "",
+                "incomplete": "",
+                "failed": ""
+            },
+            "info": {
+                "buttons": {
+                    "copy": "",
+                    "help": ""
+                },
+                "title": "",
+                "enteCreditore": "",
+                "causaleVersamento": "",
+                "dateAndTime": "",
+                "outcomeCode": "",
+                "onlyDate": "",
+                "paymentAmount": "",
+                "transactionCosts": "",
+                "transactionCode": "",
+                "help": ""
+            },
+            "list": {
+                "empty": {
+                    "title": "",
+                    "description": ""
+                },
+                "title": "",
+                "iuv": ""
+            }
+        },
+        "confirm": {
+            "a11y": {
+                "announce": ""
+            },
+            "totalAmount": "",
+            "pay": "",
+            "payWith": "",
+            "fee": "",
+            "feeAppliedBy": "",
+            "editButton": "",
+            "termsAndConditions": ""
+        }
+    },
+    "wallet": {
+        "methodDetails": {
+            "cobadgeTitle": "",
+            "cardGeneric": "",
+            "a11y": {
+                "credit": {
+                    "hpan": "",
+                    "owner": ""
+                },
+                "paypal": {
+                    "owner": ""
+                },
+                "bpay": {
+                    "phone": "",
+                    "owner": ""
+                },
+                "bancomat": {
+                    "bank": "",
+                    "owner": ""
+                },
+                "cobadge": {
+                    "bank": "",
+                    "owner": ""
+                }
+            },
+            "expired": "",
+            "isSupportedBanner": {
+                "title": "",
+                "content": "",
+                "cta": ""
+            },
+            "error": {
+                "title": "",
+                "subtitle": "",
+                "primaryButton": "",
+                "secondaryButton": ""
+            }
+        },
+        "wallet": "",
+        "refreshWallet": "",
+        "favourite": {
+            "setFavoriteTitle": "",
+            "setFavoriteSubtitle": ""
+        },
+        "incoming": {
+            "title": "",
+            "message": ""
+        },
+        "featured": "",
+        "creditCard": {
+            "onboardingAttempts": {
+                "title": "",
+                "emptyTitle": "",
+                "emptyBody": "",
+                "lastAttemptsTitle": "",
+                "success": "",
+                "failure": "",
+                "dateTime": "",
+                "detailTitle": "",
+                "help": ""
+            },
+            "validUntil": ""
+        },
+        "searchAbi": {
+            "header": "",
+            "bancomat": {
+                "title": "",
+                "description": {
+                    "text1": "",
+                    "text2": "",
+                    "text3": "",
+                    "text4": ""
+                }
+            },
+            "bpay": {
+                "title": "",
+                "description": {
+                    "text1": "",
+                    "text2": "",
+                    "text3": "",
+                    "text4": ""
+                }
+            },
+            "cobadge": {
+                "title": "",
+                "description": {
+                    "text1": "",
+                    "text3": "",
+                    "text4": ""
+                }
+            },
+            "bankName": "",
+            "noName": "",
+            "loading": ""
+        },
+        "accessibility": {
+            "sectionCardLabel": "",
+            "sectionCardHint": "",
+            "folded": {
+                "creditCard": "",
+                "bancomat": "",
+                "coBadge": "",
+                "bancomatPay": "",
+                "cta": "",
+                "bankNotAvailable": ""
+            },
+            "addElement": "",
+            "cardsPreview": "",
+            "cardHolder": ""
+        },
+        "onboarding": {
+            "paymentMethodsList": {
+                "header": {
+                    "title": "",
+                    "subtitle": ""
+                }
+            },
+            "bancomat": {
+                "headerTitle": "",
+                "koTimeout": {
+                    "title": "",
+                    "body": ""
+                },
+                "koNotFound": {
+                    "title": "",
+                    "body": ""
+                },
+                "add": {
+                    "title": "",
+                    "label": "",
+                    "screenTitle": "",
+                    "bodySingular": "",
+                    "bodyPlural": "",
+                    "loading": "",
+                    "warning": "",
+                    "blocked": ""
+                }
+            },
+            "bPay": {
+                "headerTitle": "",
+                "loadingSearch": "",
+                "add": {
+                    "label": "",
+                    "screenTitle": ""
+                },
+                "loadingAdd": "",
+                "koTimeout": {
+                    "title": "",
+                    "body": ""
+                },
+                "koNotFound": {
+                    "title": "",
+                    "body": ""
+                }
+            },
+            "paypal": {
+                "name": "",
+                "headerTitle": "",
+                "emailNotAvailable": "",
+                "start": {
+                    "title": "",
+                    "body": ""
+                },
+                "updatePsp": {
+                    "headerTitle": "",
+                    "title": "",
+                    "body": "",
+                    "leftColumnTitle": "",
+                    "rightColumnTitle": ""
+                },
+                "selectPsp": {
+                    "title": "",
+                    "body": "",
+                    "link": "",
+                    "leftColumnTitle": "",
+                    "rightColumnTitle": "",
+                    "infoBottomSheet": {
+                        "title": "",
+                        "ctaTitle": "",
+                        "row1Description": "",
+                        "row2Description1": "",
+                        "row2Description2": "",
+                        "row3Description1": ""
+                    },
+                    "whatIsPspBottomSheet": {
+                        "title": "",
+                        "body": ""
+                    }
+                },
+                "paypalAlreadyAdded": {
+                    "alert": {
+                        "title": "",
+                        "message": ""
+                    }
+                },
+                "onBoardingCompleted": {
+                    "title": "",
+                    "body": "",
+                    "primaryButton": ""
+                },
+                "onBoardingCompletedWhilePayment": {
+                    "title": "",
+                    "body": "",
+                    "primaryButton": ""
+                },
+                "paymentCheckout": {
+                    "transactionCost": "",
+                    "pspHandler": "",
+                    "privacyDisclaimer": "",
+                    "privacyTerms": ""
+                }
+            },
+            "coBadge": {
+                "headerTitle": "",
+                "start": {
+                    "loading": "",
+                    "koDisabled": {
+                        "title": "",
+                        "body": ""
+                    },
+                    "koUnavailable": {
+                        "title": "",
+                        "body": ""
+                    }
+                },
+                "search": {
+                    "loading": "",
+                    "koTimeout": {
+                        "title": "",
+                        "body": ""
+                    },
+                    "koNotFound": {
+                        "title": "",
+                        "body": ""
+                    },
+                    "koSingleBankNotFound": {
+                        "title": "",
+                        "body": ""
+                    },
+                    "koServiceError": {
+                        "title": "",
+                        "body": ""
+                    }
+                },
+                "add": {
+                    "screenTitle": "",
+                    "label": "",
+                    "blocked": "",
+                    "warning1": "",
+                    "warning2": "",
+                    "loading": ""
+                },
+                "chooseType": {
+                    "title": "",
+                    "description": "",
+                    "path": {
+                        "enabled": {
+                            "title": "",
+                            "description": ""
+                        },
+                        "disabled": {
+                            "title": "",
+                            "description": ""
+                        },
+                        "unknown": {
+                            "title": "",
+                            "description": ""
+                        }
+                    }
+                }
+            },
+            "generalError": "",
+            "outcome": {
+                "SUCCESS": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": "",
+                    "secondaryAction": ""
+                },
+                "GENERIC_ERROR": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": ""
+                },
+                "AUTH_ERROR": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": "",
+                    "secondaryAction": "",
+                    "bottomSheet": {
+                        "title": "",
+                        "description": ""
+                    }
+                },
+                "TIMEOUT": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": ""
+                },
+                "CANCELED_BY_USER": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": ""
+                },
+                "INVALID_SESSION": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": ""
+                },
+                "ALREADY_ONBOARDED": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": ""
+                },
+                "BPAY_NOT_FOUND": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": ""
+                },
+                "PSP_ERROR_ONBOARDING": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": ""
+                },
+                "BE_KO": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": "",
+                    "secondaryAction": ""
+                }
+            }
+        },
+        "alert": {
+            "supportedCardPageLinkError": "",
+            "msgErrorUpdateApp": "",
+            "titlePagoPaUpdateApp": "",
+            "messagePagoPaUpdateApp": "",
+            "btnUpdateApp": "",
+            "favorite": "",
+            "amex": ""
+        },
+        "contextualHelpTitle": "",
+        "contextualHelpContent": "",
+        "creditcards": "",
+        "paymentMethods": "",
+        "paymentMethod": "",
+        "paymentMethodDesc": "",
+        "walletLoadMessage": "",
+        "walletLoadFailure": "",
+        "transactionsLoadMessage": "",
+        "transactionsLoadFailure": "",
+        "transactionHelpMessage": {
+            "text1": "",
+            "text2": ""
+        },
+        "transactionsLoadMore": "",
+        "transacionsLoadingMore": "",
+        "transactionsShow": "",
+        "add": "",
+        "delete": {
+            "ios": {
+                "confirm": ""
+            },
+            "android": {
+                "confirm": ""
+            },
+            "successful": "",
+            "failed": ""
+        },
+        "newPaymentMethod": {
+            "add": "",
+            "show": "",
+            "refresh": "",
+            "addButton": "",
+            "addDescription": "",
+            "walletAlert": "",
+            "successful": "",
+            "failed": "",
+            "failedCardAlreadyExists": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": ""
+        },
+        "textMsg": {
+            "title": "",
+            "header": "",
+            "info": ""
+        },
+        "transactionDetails": "",
+        "transactionFullReason": "",
+        "detailsTransaction": {
+            "contextualHelpContent": ""
+        },
+        "saveCard": {
+            "contextualHelpTitle": "",
+            "contextualHelpContent": "",
+            "header": "",
+            "title": "",
+            "subtitle": "",
+            "infoTitle": "",
+            "info": "",
+            "notice": "",
+            "temporaryError": "",
+            "temporarySubError": "",
+            "loadWalletsErrorTitle": "",
+            "loadWalletsErrorBody": "",
+            "loadingAlert": ""
+        },
+        "challenge3ds": {
+            "header": "",
+            "description": ""
+        },
+        "saveCardInPayment": {
+            "header": "",
+            "title": "",
+            "save": ""
+        },
+        "thanks": "",
+        "endPayment": "",
+        "pickPsp": {
+            "headerTitle": "",
+            "title": "",
+            "info": "",
+            "info2": "",
+            "info2Bold": "",
+            "provider": "",
+            "maxFee": "",
+            "loadingPsps": "",
+            "onUpdateWalletPspFailure": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": ""
+        },
+        "ConfirmPayment": {
+            "header": "",
+            "total": "",
+            "paymentInformations": "",
+            "payWith": "",
+            "transactionCosts": "",
+            "edit": "",
+            "providedBy": "",
+            "pay": "",
+            "cancelPayment": "",
+            "fee": "",
+            "identificationMessage": "",
+            "transactionSuccess": "",
+            "transactionFailure": "",
+            "transactionTimeout": "",
+            "confirmCancelTitle": "",
+            "confirmCancelPayment": "",
+            "confirmContinuePayment": "",
+            "cancelPaymentSuccess": "",
+            "accessibility": {
+                "edit": "",
+                "transactionCosts": ""
+            }
+        },
+        "payWith": {
+            "noWallets": {
+                "title": "",
+                "text": ""
+            },
+            "header": "",
+            "title": "",
+            "text": "",
+            "fetchPspFailure": "",
+            "noPspsAvailable": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": "",
+            "pickPaymentMethod": {
+                "title": "",
+                "description": "",
+                "disabled": {
+                    "title": ""
+                },
+                "notAvailable": {
+                    "title": "",
+                    "arriving": {
+                        "bottomSheetTitle": "",
+                        "bottomSheetDescription": ""
+                    },
+                    "unaccepted": {
+                        "bottomSheetTitle": "",
+                        "bottomSheetDescription": ""
+                    },
+                    "payment_disabled": {
+                        "bottomSheetTitle": "",
+                        "bottomSheetDescription": ""
+                    }
+                }
+            }
+        },
+        "firstTransactionSummary": {
+            "a11y": {
+                "announce": ""
+            },
+            "loading": "",
+            "title": "",
+            "amount": "",
+            "total": "",
+            "expireDate": "",
+            "dueDate": "",
+            "tranche": "",
+            "info": "",
+            "tel": "",
+            "email": "",
+            "PEC": "",
+            "recipient": "",
+            "object": "",
+            "date": "",
+            "iuv": "",
+            "entityCode": "",
+            "updatedAmount": "",
+            "fee": "",
+            "idTransaction": "",
+            "amountInfo": {
+                "title": "",
+                "message": "",
+                "cta": ""
+            },
+            "contextualHelpTitle": "",
+            "contextualHelpContent": "",
+            "errorDetails": {
+                "title": "",
+                "errorCode": "",
+                "messageId": "",
+                "copyToClipboard": ""
+            }
+        },
+        "errorTransaction": {
+            "submitBugText": ""
+        },
+        "insertManually": {
+            "header": "",
+            "title": "",
+            "info": "",
+            "link": "",
+            "noticeCode": "",
+            "entityCode": "",
+            "amount": "",
+            "proceed": "",
+            "contextualHelpTitle": "",
+            "contextualHelpContent": ""
+        },
+        "total": "",
+        "amount": "",
+        "payAmount": "",
+        "transactionFee": "",
+        "why": "",
+        "paymentReason": "",
+        "recipient": "",
+        "date": "",
+        "time": "",
+        "psp": "",
+        "receipt": "",
+        "seeReceipt": "",
+        "transactions": "",
+        "transaction": "",
+        "noTransactions": "",
+        "noNewTransactions": "",
+        "noneTransactions": "",
+        "noTransactionsInWalletHome": "",
+        "noTransactionsInTransactionsScreen": "",
+        "payNotice": "",
+        "latestTransactions": "",
+        "creditDebitCards": "",
+        "addPaymentMethodTitle": "",
+        "continue": "",
+        "backToPayments": "",
+        "methods": {
+            "comingSoon": "",
+            "newCome": "",
+            "card": {
+                "name": "",
+                "shortName": "",
+                "description": "",
+                "pagoPaCapability": {
+                    "title": "",
+                    "description": "",
+                    "active": "",
+                    "arriving": "",
+                    "incompatible": "",
+                    "bottomSheetTitle": "",
+                    "bottomSheetBody": "",
+                    "bottomSheetCTA": "",
+                    "operationCompleted": "",
+                    "operationError": ""
+                }
+            },
+            "bonus": {
+                "name": "",
+                "description": ""
+            },
+            "digital": {
+                "name": "",
+                "description": ""
+            },
+            "pagobancomat": {
+                "name": "",
+                "description": ""
+            },
+            "bank": {
+                "name": ""
+            },
+            "bancomatPay": {
+                "name": "",
+                "description": ""
+            },
+            "postepayApp": {
+                "name": "",
+                "description": ""
+            },
+            "postepay": {
+                "name": "",
+                "description": ""
+            },
+            "paypal": {
+                "name": "",
+                "description": ""
+            },
+            "bancomat": {
+                "name": ""
+            },
+            "cobadge": {
+                "name": ""
+            },
+            "notImplemented": ""
+        },
+        "addCardTitle": "",
+        "dummyCard": {
+            "labels": {
+                "holder": {
+                    "label": "",
+                    "description": {
+                        "base": "",
+                        "error": ""
+                    }
+                },
+                "pan": "",
+                "expirationDate": "",
+                "securityCode": "",
+                "securityCode4D": ""
+            },
+            "values": {
+                "holder": "",
+                "pan": "",
+                "expirationDate": "",
+                "securityCode": "",
+                "securityCode4D": ""
+            },
+            "accessibility": {
+                "holder": {
+                    "base": "",
+                    "error": ""
+                },
+                "pan": {
+                    "base": "",
+                    "error": ""
+                },
+                "expirationDate": {
+                    "base": "",
+                    "error": ""
+                },
+                "securityCode": {
+                    "3D": {
+                        "base": "",
+                        "error": ""
+                    },
+                    "4D": {
+                        "base": "",
+                        "error": ""
+                    }
+                },
+                "button": {
+                    "fieldError": "",
+                    "missingFields": ""
+                }
+            }
+        },
+        "acceptedCards": "",
+        "openAcceptedCardsPageCTA": "",
+        "missingDataText": {
+            "body": "",
+            "cta": ""
+        },
+        "chooseMethod": "",
+        "QRtoPay": {
+            "chooser": "",
+            "wrongQrCode": "",
+            "byCameraTitle": "",
+            "cameraUsageInfo": "",
+            "setManually": "",
+            "enroll_cta": "",
+            "readStorageDisclosure": {
+                "title": "",
+                "message": ""
+            },
+            "settingsAlert": {
+                "title": "",
+                "message": "",
+                "buttonText": {
+                    "settings": "",
+                    "cancel": ""
+                }
+            },
+            "contextualHelpTitle": "",
+            "contextualHelpContent": ""
+        },
+        "whyAFee": {
+            "title": "",
+            "text": ""
+        },
+        "errors": {
+            "GENERIC_ERROR": "",
+            "GENERIC_ERROR_SUBTITLE": ""
+        },
+        "walletCardTransaction": {
+            "contextualHelpTitle": "",
+            "contextualHelpContent": ""
+        },
+        "bancomat": {
+            "details": {
+                "debit": {
+                    "title": "",
+                    "body": "",
+                    "addCta": ""
+                }
+            }
+        },
+        "cobadge": {
+            "details": {
+                "card": {
+                    "validUntil": ""
+                }
+            }
+        },
+        "newRemove": {
+            "title": "",
+            "body": "",
+            "warningCapability": ""
+        },
+        "capability": {
+            "title": ""
+        },
+        "outcomeMessage": {
+            "cta": {
+                "close": "",
+                "learnMore": "",
+                "visualizeCard": ""
+            },
+            "fallback": {
+                "title": "",
+                "description": ""
+            },
+            "code1": {
+                "title": "",
+                "description": ""
+            },
+            "code2": {
+                "title": "",
+                "description": ""
+            },
+            "code3": {
+                "title": "",
+                "description": ""
+            },
+            "code4": {
+                "title": "",
+                "description": ""
+            },
+            "code7": {
+                "title": "",
+                "description": ""
+            },
+            "code8": {
+                "title": ""
+            },
+            "code10": {
+                "title": "",
+                "description": ""
+            },
+            "code15": {
+                "title": "",
+                "description": ""
+            },
+            "code18": {
+                "title": "",
+                "description": ""
+            },
+            "code19": {
+                "title": "",
+                "description": ""
+            },
+            "addCreditCard": {
+                "success": {
+                    "title": ""
+                }
+            },
+            "payment": {
+                "success": {
+                    "title": "",
+                    "description1": "",
+                    "description2": ""
+                }
+            }
+        },
+        "abortWebView": {
+            "title": "",
+            "confirm": "",
+            "cancel": "",
+            "success": ""
+        },
+        "payment": {
+            "barcodes": {
+                "choice": {
+                    "title": ""
+                }
+            },
+            "manual": {
+                "noticeNumber": {
+                    "title": "",
+                    "subtitle": "",
+                    "validationError": "",
+                    "placeholder": "",
+                    "a11y": ""
+                },
+                "fiscalCode": {
+                    "title": "",
+                    "subtitle": "",
+                    "validationError": "",
+                    "placeholder": "",
+                    "a11y": ""
+                }
+            },
+            "abortDialog": {
+                "title": "",
+                "confirm": "",
+                "cancel": ""
+            },
+            "methodType": {
+                "fastPayPalPayment": ""
+            },
+            "methodSelection": {
+                "a11y": {
+                    "pageStatus": ""
+                },
+                "header": "",
+                "yourMethods": "",
+                "otherMethods": "",
+                "latestMethod": "",
+                "alert": {
+                    "body": "",
+                    "cta": ""
+                }
+            },
+            "psp": {
+                "title": "",
+                "description": "",
+                "taxDescription": "",
+                "taxDescriptionBold": "",
+                "defaultName": "",
+                "pspTitle": "",
+                "pspSortButton": "",
+                "featuredReason": "",
+                "continueButton": "",
+                "sortBottomSheet": {
+                    "default": "",
+                    "amount": "",
+                    "name": "",
+                    "a11y": {
+                        "default": "",
+                        "amount": "",
+                        "name": "",
+                        "announce": ""
+                    }
+                }
+            },
+            "failure": {
+                "PAYMENT_UNAVAILABLE": {
+                    "title": ""
+                },
+                "PAYMENT_DATA_ERROR": {
+                    "title": ""
+                },
+                "DOMAIN_UNKNOWN": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "PAYMENT_ONGOING": {
+                    "PAA_PAGAMENTO_IN_CORSO": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "PPT_PAGAMENTO_IN_CORSO": {
+                        "countdownTitle": "",
+                        "countdownExpiredTitle": "",
+                        "subtitle": ""
+                    },
+                    "title": "",
+                    "subtitle": ""
+                },
+                "PAYMENT_EXPIRED": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "PAYMENT_CANCELED": {
+                    "title": "",
+                    "subtitle": "",
+                    "action": ""
+                },
+                "PAYMENT_DUPLICATED": {
+                    "title": ""
+                },
+                "PAYMENT_VERIFY_GENERIC_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "GENERIC_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "PAYMENT_SLOWDOWN_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "PAYMENT_UNKNOWN": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "PSP_PAYMENT_METHOD_NOT_AVAILABLE_ERROR": {
+                    "title": "",
+                    "subtitle": "",
+                    "action": ""
+                }
+            },
+            "outcome": {
+                "SUCCESS": {
+                    "title": "",
+                    "subtitle": "",
+                    "button": "",
+                    "banner": {
+                        "title": "",
+                        "content": "",
+                        "action": ""
+                    }
+                },
+                "GENERIC_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "AUTH_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "INVALID_DATA": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "TIMEOUT": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "CIRCUIT_ERROR": {
+                    "title": ""
+                },
+                "MISSING_FIELDS": {
+                    "title": ""
+                },
+                "INVALID_CARD": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "CANCELED_BY_USER": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "EXCESSIVE_AMOUNT": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "INVALID_METHOD": {
+                    "title": ""
+                },
+                "WAITING_CONFIRMATION_EMAIL": {
+                    "title": "",
+                    "subtitle": "",
+                    "defaultSubtitle": ""
+                },
+                "METHOD_NOT_ENABLED": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "PAYMENT_METHODS_NOT_AVAILABLE": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": "",
+                    "secondaryAction": ""
+                },
+                "PAYMENT_METHODS_EXPIRED": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": "",
+                    "secondaryAction": ""
+                },
+                "PAYMENT_REVERSED": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": "",
+                    "secondaryAction": ""
+                },
+                "PAYPAL_REMOVED_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "IN_APP_BROWSER_CLOSED_BY_USER": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "INSUFFICIENT_AVAILABILITY_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "CVV_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "PLAFOND_LIMIT_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "BE_NODE_KO": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "PSP_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "AUTH_REQUEST_ERROR": {
+                    "title": "",
+                    "subtitle": ""
+                }
+            },
+            "support": {
+                "button": "",
+                "supportTitle": "",
+                "phone": "",
+                "chat": "",
+                "additionalDataTitle": "",
+                "copyAll": "",
+                "errorCode": "",
+                "noticeNumber": "",
+                "entityCode": ""
+            }
+        }
+    },
+    "saveCard": {
+        "saveCard": "",
+        "header": "",
+        "favoriteTitle": "",
+        "favoriteText": ""
+    },
+    "cardComponent": {
+        "validUntil": "",
+        "expiresOn": "",
+        "expiredCard": "",
+        "actions": "",
+        "setFavorite": "",
+        "unsetFavorite": "",
+        "deleteTitle": "",
+        "deleteMsg": "",
+        "deleteLoading": "",
+        "neverUsed": "",
+        "lastUsage": "",
+        "detailsAndTransactions": "",
+        "pick": "",
+        "removeCta": ""
+    },
+    "messages": {
+        "accessibility": {
+            "message": {
+                "archive": "",
+                "description": "",
+                "deselectInstructions": "",
+                "read": "",
+                "received_at": "",
+                "received_on": "",
+                "selectInstructions": "",
+                "selected": "",
+                "unarchive": "",
+                "unread": ""
+            }
+        },
+        "contextualHelpTitle": "",
+        "contextualHelpContent": "",
+        "counting": {
+            "zero": "",
+            "one": "",
+            "two": "",
+            "few": "",
+            "many": "",
+            "other": ""
+        },
+        "tab": {
+            "inbox": "",
+            "archive": ""
+        },
+        "contentTitle": "",
+        "refresh": "",
+        "loading": "",
+        "yesterday": "",
+        "errorLoading": {
+            "details": "",
+            "senderInfo": "",
+            "serviceInfo": "",
+            "departmentInfo": "",
+            "noTitle": ""
+        },
+        "loadingErrorTitle": "",
+        "cta": {
+            "archive": "",
+            "unarchive": "",
+            "selectAll": "",
+            "deselectAll": "",
+            "pay": "",
+            "onlyPay": "",
+            "paid": "",
+            "seeNotice": "",
+            "reminder": "",
+            "reminderShort": "",
+            "reminderCalendarSelect": "",
+            "reminderTitle": "",
+            "reminderAlertTitle": "",
+            "reminderAlertDescription": "",
+            "reminderAlertKeep": "",
+            "reminderAlertAdd": "",
+            "reminderAddSuccess": "",
+            "reminderAddFailure": "",
+            "reminderRemoveRequest": {
+                "title": "",
+                "ok": "",
+                "cancel": ""
+            },
+            "reminderRemoveSuccess": "",
+            "reminderRemoveFailure": "",
+            "preferenceCalendarSelect": "",
+            "calendarPermDenied": {
+                "title": "",
+                "preferencesTitle": "",
+                "description": "",
+                "ok": "",
+                "cancel": ""
+            },
+            "errors": {
+                "fetchCalendars": ""
+            },
+            "helper": ""
+        },
+        "badge": {
+            "expired": "",
+            "paid": ""
+        },
+        "unknownSender": "",
+        "noContent": "",
+        "archive": {
+            "emptyMessage": {
+                "title": "",
+                "subtitle": ""
+            }
+        },
+        "inbox": {
+            "emptyMessage": {
+                "title": "",
+                "subtitle": ""
+            }
+        },
+        "operations": {
+            "archive": {
+                "success": "",
+                "failure": ""
+            },
+            "generic": {
+                "failure": "",
+                "success": ""
+            },
+            "restore": {
+                "success": "",
+                "failure": ""
+            }
+        },
+        "search": {
+            "emptyState": {
+                "title": "",
+                "a11y": {
+                    "noneFound": ""
+                }
+            },
+            "input": {
+                "cancel": "",
+                "clear": "",
+                "placeholderShort": ""
+            }
+        }
+    },
+    "messageDetails": {
+        "accessibilityAttachmentIcon": "",
+        "contextualHelpTitle": "",
+        "contextualHelpContent": "",
+        "headerTitle": "",
+        "emptyMessage": "",
+        "loadingText": "",
+        "pleaseWait": "",
+        "errorText": "",
+        "retryText": "",
+        "submitBugText": "",
+        "addMemo": "",
+        "dateSending": "",
+        "sender": "",
+        "service": "",
+        "question": "",
+        "answer": "",
+        "call": "",
+        "sendEmail": "",
+        "write": "",
+        "id": "",
+        "remoteContentError": {
+            "title": "",
+            "body": ""
+        },
+        "attachments": {
+            "loading": "",
+            "badFormat": "",
+            "corruptedFile": "",
+            "downloadFailed": "",
+            "showPreview": "",
+            "failing": {
+                "details": ""
+            }
+        },
+        "banner": {
+            "content1": "",
+            "content2": "",
+            "content3": "",
+            "action": ""
+        },
+        "bottomSheet": {
+            "title": "",
+            "body": "",
+            "bodyPt1": "",
+            "bodyPt2": "",
+            "bodyPt3": "",
+            "bodyPt4": "",
+            "bodyPt5": ""
+        },
+        "footer": {
+            "contacts": "",
+            "showMoreData": ""
+        },
+        "showMoreDataBottomSheet": {
+            "title": "",
+            "messageId": "",
+            "messageIdAccessibility": "",
+            "pagoPAHeader": "",
+            "noticeCode": "",
+            "noticeCodeAccessibility": "",
+            "entityFiscalCode": "",
+            "entityFiscalCodeAccessibility": ""
+        },
+        "contactsBottomSheet": {
+            "title": "",
+            "body": "",
+            "actions": {
+                "call": "",
+                "email": ""
+            }
+        },
+        "markdownLinkUnsupported": "",
+        "markdown": {
+            "decodingErrorContent": "",
+            "decodingErrorHide": "",
+            "decodingErrorShow": ""
+        }
+    },
+    "messagePDFPreview": {
+        "title": "",
+        "singleBtn": "",
+        "singleBtnAccessibility": "",
+        "open": "",
+        "save": "",
+        "saveAccessibility": "",
+        "savedAtLocation": "",
+        "share": "",
+        "shareAccessibility": "",
+        "pdfAccessibility": "",
+        "errors": {
+            "previewing": {
+                "title": "",
+                "body": ""
+            },
+            "sharing": "",
+            "opening": "",
+            "saving": ""
+        }
+    },
+    "notifications": {
+        "profileBanner": {
+            "title": "",
+            "cta": ""
+        },
+        "installation": {
+            "errorTitle": "",
+            "errorMessage": ""
+        },
+        "modal": {
+            "content": "",
+            "primaryButton": "",
+            "secondaryButton": "",
+            "title": ""
+        }
+    },
+    "biometric_recognition": {
+        "contextualHelpTitle": "",
+        "contextualHelpContent": "",
+        "switchLabel": "",
+        "enroll_cta": "",
+        "enroll_btnLabel": "",
+        "needed_to_disable": ""
+    },
+    "send_email_messages": {
+        "title": "",
+        "subtitle": "",
+        "switch": {
+            "title": "",
+            "subtitle": ""
+        }
+    },
+    "services": {
+        "optIn": {
+            "preferences": {
+                "completed": {
+                    "title": "",
+                    "body": "",
+                    "cta": ""
+                },
+                "banner": "",
+                "oldUsersBadge": "",
+                "choiceLabel": "",
+                "unavailable": "",
+                "title": "",
+                "body": "",
+                "quickConfig": {
+                    "value": "",
+                    "label": "",
+                    "title": "",
+                    "successAlert": "",
+                    "body": {
+                        "text1": "",
+                        "text2": ""
+                    }
+                },
+                "manualConfig": {
+                    "value": "",
+                    "label": "",
+                    "title": "",
+                    "successAlert": "",
+                    "body": {
+                        "text1": ""
+                    },
+                    "bottomSheet": {
+                        "title": "",
+                        "body": ""
+                    }
+                }
+            }
+        },
+        "title": "",
+        "contextualHelpTitle": "",
+        "contextualHelpContent": "",
+        "new": "",
+        "home": {
+            "bottomSheet": {
+                "content": {
+                    "servicesPreferences": {
+                        "value": "",
+                        "description": ""
+                    },
+                    "settings": {
+                        "value": "",
+                        "description": ""
+                    }
+                }
+            },
+            "featured": {
+                "services": {
+                    "title": ""
+                },
+                "institutions": {
+                    "title": ""
+                }
+            },
+            "institutions": {
+                "title": ""
+            },
+            "searchLink": ""
+        },
+        "institution": {
+            "failure": {
+                "title": "",
+                "subtitle": "",
+                "back": "",
+                "retry": ""
+            },
+            "header": {
+                "subtitlePlural": "",
+                "subtitleSingular": ""
+            }
+        },
+        "search": {
+            "input": {
+                "placeholder": "",
+                "placeholderShort": "",
+                "cancel": "",
+                "clear": ""
+            },
+            "emptyState": {
+                "invalidQuery": {
+                    "title": ""
+                },
+                "noResults": {
+                    "title": "",
+                    "subtitle": ""
+                }
+            },
+            "list": {
+                "header": {
+                    "title": ""
+                }
+            }
+        },
+        "details": {
+            "failure": {
+                "title": "",
+                "subtitle": "",
+                "back": "",
+                "retry": ""
+            },
+            "preferences": {
+                "title": "",
+                "inbox": "",
+                "pushNotifications": "",
+                "messageReadStatus": ""
+            },
+            "metadata": {
+                "title": "",
+                "website": "",
+                "downloadApp": "",
+                "support": "",
+                "phone": "",
+                "email": "",
+                "pec": "",
+                "fiscalCode": "",
+                "fiscalCodeAccessibilityHint": "",
+                "address": "",
+                "serviceId": ""
+            },
+            "tosAndPrivacy": {
+                "title": "",
+                "tosLink": "",
+                "privacyLink": ""
+            }
+        }
+    },
+    "identification": {
+        "instructions": {
+            "useFingerPrintOrUnlockCode": "",
+            "useFingerPrintOrUnlockCodeA11y": "",
+            "useFaceIdOrUnlockCode": "",
+            "useFaceIdOrUnlockCodeA11y": "",
+            "useUnlockCode": "",
+            "useUnlockCodeA11y": ""
+        },
+        "title": "",
+        "titleProfileName": "",
+        "titleValidation": "",
+        "titleOffline": "",
+        "logout": "",
+        "logoutProfileName": "",
+        "logoutDescription": "",
+        "logoutDescriptionProfileName": "",
+        "biometric": {
+            "fingerprintType": "",
+            "title": "",
+            "popup": {
+                "reason": "",
+                "title": "",
+                "sensorDescription": ""
+            }
+        },
+        "fail": {
+            "remainingAttempts": "",
+            "remainingAttemptSingle": "",
+            "tooManyAttempts": "",
+            "waitMessage": ""
+        },
+        "unlockCode": {
+            "accessibility": {
+                "unlockHint": "",
+                "fingerprint": "",
+                "faceId": "",
+                "delete": ""
+            },
+            "reset": {
+                "button": "",
+                "code": "",
+                "button_short": "",
+                "subtitle": ""
+            },
+            "confirmValid": ""
+        },
+        "forgetCode": {
+            "confirmTitle": "",
+            "confirmMsg": "",
+            "confirmMsgWithTask": ""
+        }
+    },
+    "calendarEvents": {
+        "calendarSelect": ""
+    },
+    "reminders": {
+        "emptyMonth": "",
+        "loadMoreData": "",
+        "noOtherDeadlines": ""
+    },
+    "openMaps": {
+        "genericError": "",
+        "openAddressOnMap": ""
+    },
+    "genericError": "",
+    "titleUpdateApp": "",
+    "msgErrorUpdateApp": "",
+    "messageUpdateApp": "",
+    "titleUpdateAppAlert": "",
+    "messageUpdateAppAlert": "",
+    "openStore": "",
+    "btnUpdateApp": "",
+    "systemsOff": {
+        "title": "",
+        "closeApp": ""
+    },
+    "contextualHelp": {
+        "title": "",
+        "sendPersonalInfo": {
+            "title": ""
+        }
+    },
+    "bottomSheets": {
+        "ciePin": {
+            "title": "",
+            "content": ""
+        }
+    },
+    "faq": {
+        "1": {
+            "title": "",
+            "content": ""
+        },
+        "2": {
+            "title": "",
+            "content": ""
+        },
+        "3": {
+            "title": "",
+            "content": ""
+        },
+        "4": {
+            "title": "",
+            "content": ""
+        },
+        "5": {
+            "title": "",
+            "content": ""
+        },
+        "6": {
+            "title": "",
+            "content": ""
+        },
+        "7": {
+            "title": "",
+            "content": ""
+        },
+        "8": {
+            "title": "",
+            "content": ""
+        },
+        "9": {
+            "title": "",
+            "content": ""
+        },
+        "11": {
+            "title": "",
+            "content": ""
+        },
+        "12": {
+            "title": "",
+            "content": ""
+        },
+        "13": {
+            "title": "",
+            "content": ""
+        },
+        "14": {
+            "title": "",
+            "content": ""
+        },
+        "15": {
+            "title": "",
+            "content": ""
+        },
+        "16": {
+            "title": "",
+            "content": ""
+        },
+        "17": {
+            "title": "",
+            "content": ""
+        },
+        "18": {
+            "title": "",
+            "content": ""
+        },
+        "19": {
+            "title": "",
+            "content": ""
+        },
+        "20": {
+            "title": "",
+            "content": ""
+        },
+        "21": {
+            "title": "",
+            "content": ""
+        },
+        "22": {
+            "title": "",
+            "content": ""
+        },
+        "23": {
+            "title": "",
+            "content": ""
+        },
+        "24": {
+            "title": "",
+            "content": ""
+        },
+        "25": {
+            "title": "",
+            "content": ""
+        },
+        "26": {
+            "title": "",
+            "content": ""
+        },
+        "27": {
+            "title": "",
+            "content": ""
+        },
+        "28": {
+            "title": "",
+            "content": ""
+        },
+        "29": {
+            "title": "",
+            "content": ""
+        },
+        "30": {
+            "title": "",
+            "content": ""
+        },
+        "31": {
+            "title": "",
+            "content": ""
+        },
+        "32": {
+            "title": "",
+            "content": ""
+        },
+        "33": {
+            "title": "",
+            "content": ""
+        },
+        "34": {
+            "title": "",
+            "content": ""
+        },
+        "35": {
+            "title": "",
+            "content": ""
+        },
+        "36": {
+            "title": "",
+            "content": ""
+        },
+        "37": {
+            "title": "",
+            "content": ""
+        },
+        "38": {
+            "title": "",
+            "content": ""
+        },
+        "39": {
+            "title": "",
+            "content": ""
+        },
+        "40": {
+            "title": "",
+            "content": ""
+        },
+        "41": {
+            "title": "",
+            "content": ""
+        },
+        "42": {
+            "title": "",
+            "content": ""
+        },
+        "43": {
+            "title": "",
+            "content": ""
+        },
+        "44": {
+            "title": "",
+            "content": ""
+        },
+        "45": {
+            "title": "",
+            "content": ""
+        },
+        "46": {
+            "title": "",
+            "content": ""
+        },
+        "47": {
+            "title": "",
+            "content": ""
+        },
+        "48": {
+            "title": "",
+            "content": ""
+        },
+        "49": {
+            "title": "",
+            "content": ""
+        },
+        "50": {
+            "title": "",
+            "content": ""
+        },
+        "51": {
+            "title": "",
+            "content": ""
+        },
+        "52": {
+            "title": "",
+            "content": ""
+        },
+        "53": {
+            "title": "",
+            "content": ""
+        },
+        "54": {
+            "title": "",
+            "content": ""
+        },
+        "55": {
+            "title": "",
+            "content": ""
+        },
+        "56": {
+            "title": "",
+            "content": ""
+        },
+        "57": {
+            "title": "",
+            "content": ""
+        },
+        "58": {
+            "title": "",
+            "content": ""
+        },
+        "59": {
+            "title": "",
+            "content": ""
+        },
+        "60": {
+            "title": "",
+            "content": ""
+        },
+        "61": {
+            "title": "",
+            "content": ""
+        },
+        "62": {
+            "title": "",
+            "content": ""
+        },
+        "63": {
+            "title": "",
+            "content": ""
+        },
+        "64": {
+            "title": "",
+            "content": ""
+        },
+        "65": {
+            "title": "",
+            "content": ""
+        },
+        "66": {
+            "title": "",
+            "content": ""
+        },
+        "67": {
+            "title": "",
+            "content": ""
+        },
+        "68": {
+            "title": "",
+            "content": ""
+        },
+        "69": {
+            "title": "",
+            "content": ""
+        },
+        "70": {
+            "title": "",
+            "content": ""
+        },
+        "71": {
+            "title": "",
+            "content": ""
+        },
+        "72": {
+            "title": "",
+            "content": ""
+        },
+        "73": {
+            "title": "",
+            "content": ""
+        },
+        "74": {
+            "title": "",
+            "content": ""
+        },
+        "75": {
+            "title": "",
+            "content": ""
+        },
+        "76": {
+            "title": "",
+            "content": ""
+        },
+        "77": {
+            "title": "",
+            "content": ""
+        },
+        "78": {
+            "title": "",
+            "content": ""
+        },
+        "79": {
+            "title": "",
+            "content": ""
+        },
+        "80": {
+            "title": "",
+            "content": ""
+        },
+        "81": {
+            "title": "",
+            "content": ""
+        }
+    },
+    "bonus": {
+        "accessibility": {
+            "sectionCardLabel": "",
+            "sectionCardHint": ""
+        },
+        "state": {
+            "completed": {
+                "caption": "",
+                "description": ""
+            }
+        },
+        "bonusVacanze": {
+            "multipleBonus": "",
+            "usableAmount": "",
+            "taxBenefit": "",
+            "request": "",
+            "code": "",
+            "uniqueCode": "",
+            "requestedAt": "",
+            "consumedAt": "",
+            "advice": "",
+            "status": "",
+            "name": "",
+            "validity": "",
+            "amount": "",
+            "applicant": "",
+            "bonusClaim": "",
+            "shareMessage": "",
+            "saveScreenShotOk": "",
+            "savedOn": "",
+            "eligibility": {
+                "loading": "",
+                "activateBonus": {
+                    "headerTitle": "",
+                    "title": "",
+                    "description": "",
+                    "discrepancies": {
+                        "attention": "",
+                        "text": ""
+                    },
+                    "activateCTA": ""
+                }
+            },
+            "activation": {
+                "loading": "",
+                "timeout": {
+                    "title": ""
+                }
+            }
+        },
+        "bonusList": {
+            "title": "",
+            "contentTitle": "",
+            "contextualHelp": {
+                "title": "",
+                "body": ""
+            }
+        },
+        "bonusInformation": {
+            "contextualHelp": {
+                "title": "",
+                "body": ""
+            }
+        },
+        "request": "",
+        "requestLabel": "",
+        "requestTitle": "",
+        "validity_interval": "",
+        "active": "",
+        "failed": "",
+        "redeemed": "",
+        "termsAndConditionFooter": "",
+        "tos": {
+            "title": "",
+            "content": ""
+        },
+        "bpd": {
+            "title": "",
+            "description": "",
+            "name": "",
+            "cta": {
+                "activeBonus": ""
+            }
+        },
+        "cgn": {
+            "generic": {
+                "linkError": ""
+            },
+            "accessibility": {
+                "code": ""
+            },
+            "name": "",
+            "departmentName": "",
+            "merchantSearch": {
+                "goToSearchAccessibilityLabel": "",
+                "emptyList": {
+                    "shortQuery": {
+                        "titleWithCount": "",
+                        "titleWithoutCount": ""
+                    },
+                    "noResults": {
+                        "title": "",
+                        "subtitle": ""
+                    }
+                },
+                "input": {
+                    "placeholder": "",
+                    "cancel": "",
+                    "clear": ""
+                }
+            },
+            "merchantsList": {
+                "news": "",
+                "online": "",
+                "places": "",
+                "navigationTitle": "",
+                "screenTitle": "",
+                "merchantsAll": "",
+                "tabs": {
+                    "perInitiative": "",
+                    "perMerchant": "",
+                    "a11y": ""
+                },
+                "cta": {
+                    "filter": ""
+                },
+                "categoriesList": {
+                    "a11y": "",
+                    "title": "",
+                    "bottomSheet": {
+                        "cta": "",
+                        "title": "",
+                        "content": ""
+                    }
+                },
+                "filter": {
+                    "title": "",
+                    "searchTitle": "",
+                    "inputPlaceholder": "",
+                    "addressTitle": "",
+                    "addressPlaceholder": "",
+                    "sliderLabel": "",
+                    "sliderUnit": "",
+                    "orderTitle": "",
+                    "categories": "",
+                    "cta": {
+                        "cancel": "",
+                        "confirm": {
+                            "zero": "",
+                            "one": "",
+                            "two": "",
+                            "few": "",
+                            "many": "",
+                            "other": ""
+                        }
+                    },
+                    "order": {
+                        "byDistance": "",
+                        "byName": ""
+                    }
+                },
+                "discountOf": ""
+            },
+            "merchantDetail": {
+                "title": {
+                    "deals": "",
+                    "description": "",
+                    "contactInfo": ""
+                },
+                "cta": {
+                    "website": ""
+                },
+                "categories": {
+                    "counting": "",
+                    "cultureAndEntertainment": "",
+                    "health": "",
+                    "learning": "",
+                    "sport": "",
+                    "home": "",
+                    "telco": "",
+                    "finance": "",
+                    "travel": "",
+                    "mobility": "",
+                    "job": ""
+                },
+                "information": {
+                    "address": "",
+                    "allNational": ""
+                },
+                "discount": {
+                    "description": "",
+                    "conditions": "",
+                    "validity": "",
+                    "cta": {
+                        "api": "",
+                        "static": "",
+                        "bucket": "",
+                        "landingpage": "",
+                        "createNew": ""
+                    },
+                    "secondaryCta": "",
+                    "title": "",
+                    "expired": "",
+                    "copyButton": "",
+                    "error": ""
+                }
+            },
+            "cta": {
+                "activeBonus": "",
+                "back": "",
+                "deactivateBonus": "",
+                "goToDetail": ""
+            },
+            "detail": {
+                "cta": {
+                    "buyers": "",
+                    "discover": "",
+                    "otp": "",
+                    "eyca": {
+                        "copy": "",
+                        "pending": "",
+                        "bottomSheet": "",
+                        "showEycaDiscounts": ""
+                    }
+                },
+                "information": {
+                    "active": "",
+                    "warning": "",
+                    "revoked": "",
+                    "expired": ""
+                },
+                "ownership": "",
+                "status": {
+                    "title": "",
+                    "eyca": "",
+                    "eycaCircuit": "",
+                    "eycaNumber": "",
+                    "eycaPending": "",
+                    "eycaError": "",
+                    "eycaBottomSheetTitle": "",
+                    "eycaDescription": "",
+                    "badge": {
+                        "active": "",
+                        "revoked": "",
+                        "expired": ""
+                    },
+                    "date": {
+                        "valid_until": "",
+                        "activated": "",
+                        "expired": "",
+                        "revoked": ""
+                    },
+                    "expiration": {
+                        "cgn": "",
+                        "eyca": ""
+                    },
+                    "a11y": {
+                        "cardStatus": ""
+                    }
+                },
+                "empty": {
+                    "title": "",
+                    "subtitle": "",
+                    "activateCta": ""
+                }
+            },
+            "activation": {
+                "eyca": {
+                    "loading": {
+                        "caption": "",
+                        "subCaption": ""
+                    },
+                    "error": {
+                        "title": "",
+                        "body": ""
+                    }
+                },
+                "loading": {
+                    "caption": "",
+                    "subCaption": ""
+                },
+                "error": {
+                    "title": "",
+                    "body": ""
+                },
+                "ineligible": {
+                    "title": "",
+                    "body": ""
+                },
+                "timeout": {
+                    "title": "",
+                    "body": ""
+                },
+                "alreadyActive": {
+                    "title": "",
+                    "body": ""
+                },
+                "pending": {
+                    "title": "",
+                    "body": ""
+                },
+                "success": {
+                    "title": "",
+                    "body": ""
+                },
+                "deactivate": {
+                    "toast": "",
+                    "alert": {
+                        "title": "",
+                        "message": ""
+                    },
+                    "expired": ""
+                }
+            },
+            "otp": {
+                "error": "",
+                "code": {
+                    "title": "",
+                    "validUntil": "",
+                    "minutes": {
+                        "zero": "",
+                        "one": "",
+                        "two": "",
+                        "few": "",
+                        "many": "",
+                        "other": ""
+                    },
+                    "seconds": {
+                        "zero": "",
+                        "one": "",
+                        "two": "",
+                        "few": "",
+                        "many": "",
+                        "other": ""
+                    }
+                }
+            }
+        },
+        "cdc": {
+            "serviceEntryPoint": {
+                "notAvailable": ""
+            },
+            "request": ""
+        }
+    },
+    "features": {
+        "messages": {
+            "pushNotifications": {
+                "banner": {
+                    "title": "",
+                    "body": "",
+                    "CTA": "",
+                    "bottomSheet": {
+                        "title": "",
+                        "body": "",
+                        "cta": "",
+                        "cta2": ""
+                    }
+                }
+            },
+            "attachmentDownloadFeedback": "",
+            "attachments": "",
+            "loading": {
+                "title": "",
+                "subtitle": ""
+            },
+            "updateBottomSheet": {
+                "title": "",
+                "subtitle": ""
+            },
+            "badge": {
+                "dueDate": ""
+            },
+            "alert": {
+                "addReminder": "",
+                "removeReminder": "",
+                "content": ""
+            },
+            "payments": {
+                "title": "",
+                "noticeCode": "",
+                "pay": ""
+            }
+        },
+        "greenPass": {
+            "button": "",
+            "title": ""
+        },
+        "pn": {
+            "aar": {
+                "serviceActivation": {
+                    "failure": "",
+                    "feature1": {
+                        "part1": "",
+                        "part2": "",
+                        "part3": ""
+                    },
+                    "feature2": {
+                        "part1": "",
+                        "part2": ""
+                    },
+                    "feature3": {
+                        "part1": "",
+                        "part2": ""
+                    },
+                    "footer": {
+                        "part1": "",
+                        "part2": "",
+                        "part3": "",
+                        "part4": "",
+                        "part5": "",
+                        "part6": "",
+                        "part7": ""
+                    },
+                    "headerAction": "",
+                    "primaryAction": "",
+                    "serviceActivated": "",
+                    "title": ""
+                },
+                "pushEngagement": {
+                    "badge": "",
+                    "title": "",
+                    "body": "",
+                    "cta": "",
+                    "toast": ""
+                }
+            },
+            "reminderBanner": {
+                "title": "",
+                "body": "",
+                "cta": "",
+                "activationFlow": {
+                    "FAILURE_DETAILS_FETCH": {
+                        "title": "",
+                        "body": ""
+                    },
+                    "FAILURE_ACTIVATION": {
+                        "title": "",
+                        "body": ""
+                    },
+                    "WAITING_USER_INPUT": {
+                        "title": "",
+                        "paragraph1": {
+                            "title": "",
+                            "body": ""
+                        },
+                        "paragraph2": {
+                            "title": "",
+                            "body": ""
+                        },
+                        "paragraph3": {
+                            "title": "",
+                            "body": ""
+                        },
+                        "paragraph4": {
+                            "pressing": "",
+                            "activate": "",
+                            "readAndUnderstood": "",
+                            "privacyInfo": "",
+                            "andThe": "",
+                            "TOS": ""
+                        },
+                        "CTA": ""
+                    },
+                    "SUCCESS_ACTIVATION": {
+                        "title": "",
+                        "body": ""
+                    },
+                    "ALREADY_ACTIVE": {
+                        "title": "",
+                        "body": ""
+                    },
+                    "LOADING-DATA": {
+                        "title": ""
+                    },
+                    "LOADING-ACTIVATION": {
+                        "title": ""
+                    },
+                    "MISSING-SID": {
+                        "title": "",
+                        "body": ""
+                    }
+                }
+            },
+            "service": {
+                "activate": "",
+                "deactivate": "",
+                "toast": {
+                    "activated": "",
+                    "error": ""
+                }
+            },
+            "details": {
+                "badge": {
+                    "legalValue": ""
+                },
+                "title": "",
+                "noticeCode": "",
+                "loadError": {
+                    "title": "",
+                    "body": ""
+                },
+                "cancelledMessage": {
+                    "body": "",
+                    "unpaidPayments": "",
+                    "unpaidPaymentsNew": "",
+                    "payments": ""
+                },
+                "paymentSection": {
+                    "title": "",
+                    "morePayments": "",
+                    "bottomSheetTitle": ""
+                },
+                "attachmentsSection": {
+                    "title": ""
+                },
+                "f24Section": {
+                    "title": "",
+                    "description": "",
+                    "showAll": "",
+                    "bottomSheet": {
+                        "title": ""
+                    }
+                },
+                "infoSection": {
+                    "title": "",
+                    "iun": "",
+                    "iunAccessibility": "",
+                    "iunSectionTitle": ""
+                },
+                "timeline": {
+                    "goToSend": "",
+                    "menuTitle": "",
+                    "newInfo": "",
+                    "title": "",
+                    "status": {
+                        "ACCEPTED": "",
+                        "CANCELLED": "",
+                        "DELIVERED": "",
+                        "DELIVERING": "",
+                        "EFFECTIVE_DATE": "",
+                        "UNREACHABLE": "",
+                        "VIEWED": "",
+                        "PAID": "",
+                        "REFUSED": "",
+                        "IN_VALIDATION": ""
+                    },
+                    "expand": "",
+                    "info": "",
+                    "cta": ""
+                }
+            },
+            "qrCodeScan": {
+                "success": {
+                    "openSendScreen": {
+                        "title": "",
+                        "firstCta": ""
+                    }
+                }
+            }
+        },
+        "fci": {
+            "errors": {
+                "buttons": {
+                    "back": "",
+                    "retry": "",
+                    "close": "",
+                    "assistance": ""
+                },
+                "expiredAfterSigned": {
+                    "title": "",
+                    "subTitle": ""
+                },
+                "expired": {
+                    "title": "",
+                    "subTitle": ""
+                },
+                "waitForQtsp": {
+                    "title": "",
+                    "subTitle": ""
+                },
+                "signed": {
+                    "title": "",
+                    "subTitle": ""
+                },
+                "unsupportedDevice": {
+                    "title": "",
+                    "subTitle": ""
+                },
+                "generic": {
+                    "default": {
+                        "title": "",
+                        "subTitle": ""
+                    },
+                    "update": {
+                        "title": "",
+                        "subTitle": ""
+                    },
+                    "rejected": {
+                        "title": "",
+                        "subTitle": ""
+                    },
+                    "signing": {
+                        "title": "",
+                        "subTitle": ""
+                    },
+                    "wrongUser": {
+                        "title": "",
+                        "subTitle": ""
+                    },
+                    "cancelled": {
+                        "title": "",
+                        "subTitle": ""
+                    }
+                }
+            },
+            "abort": {
+                "title": "",
+                "content": "",
+                "cancel": "",
+                "confirm": "",
+                "alert": {
+                    "title": "",
+                    "confirm": "",
+                    "cancel": ""
+                }
+            },
+            "checkService": {
+                "title": "",
+                "content": "",
+                "cancel": "",
+                "confirm": ""
+            },
+            "noFields": {
+                "title": "",
+                "content": "",
+                "leftButton": "",
+                "rightButton": ""
+            },
+            "signatureFields": {
+                "title": "",
+                "showOnDocument": "",
+                "accessibility": {
+                    "fieldDetailHint": "",
+                    "selected": "",
+                    "unselected": ""
+                },
+                "required": "",
+                "optional": "",
+                "unfair": ""
+            },
+            "title": "",
+            "documentsBar": {
+                "titleLeft": "",
+                "titleRight": ""
+            },
+            "shareDataScreen": {
+                "title": "",
+                "content": "",
+                "cancel": "",
+                "confirm": "",
+                "alertText": "",
+                "alertLink": "",
+                "name": "",
+                "familyName": "",
+                "birthDate": ""
+            },
+            "thankYouPage": {
+                "title": "",
+                "content": "",
+                "cta": ""
+            },
+            "qtspTos": {
+                "title": "",
+                "subTitle": "",
+                "show": ""
+            },
+            "documents": {
+                "footer": {
+                    "cancel": "",
+                    "continue": "",
+                    "confirm": "",
+                    "backToSignFieldsList": ""
+                }
+            },
+            "requests": {
+                "header": "",
+                "title": "",
+                "itemSubtitle": "",
+                "signed": "",
+                "notAvailable": "",
+                "signingInProgress": ""
+            },
+            "signatureFieldInfo": {
+                "title": "",
+                "subTitle": ""
+            }
+        },
+        "wallet": {
+            "home": {
+                "emptyMessage": "",
+                "cta": "",
+                "toast": {
+                    "newMethod": ""
+                },
+                "paymentsBanner": {
+                    "title": "",
+                    "action": "",
+                    "close": ""
+                },
+                "otherMethods": {
+                    "error": {
+                        "banner": {
+                            "label": "",
+                            "cta": ""
+                        }
+                    }
+                }
+            },
+            "cards": {
+                "categories": {
+                    "all": "",
+                    "bonus": "",
+                    "cgn": "",
+                    "itw": "",
+                    "payment": "",
+                    "other": ""
+                }
+            },
+            "onboarding": {
+                "title": "",
+                "sections": {
+                    "itw": "",
+                    "other": ""
+                },
+                "badge": {
+                    "active": "",
+                    "unavailable": "",
+                    "requested": "",
+                    "upcoming": ""
+                },
+                "options": {
+                    "cgn": "",
+                    "welfare": "",
+                    "payments": ""
+                }
+            }
+        },
+        "payments": {
+            "backoff": {
+                "second": "",
+                "seconds": "",
+                "minute": "",
+                "minutes": "",
+                "retryCountDown": ""
+            },
+            "title": "",
+            "cta": "",
+            "remoteAlert": {
+                "cta": ""
+            },
+            "methods": {
+                "title": "",
+                "button": "",
+                "banner": {
+                    "content": "",
+                    "action": ""
+                },
+                "status": {
+                    "expired": ""
+                },
+                "error": {
+                    "banner": {
+                        "label": "",
+                        "retryButton": ""
+                    }
+                }
+            },
+            "transactions": {
+                "multiplePayment": "",
+                "title": "",
+                "button": "",
+                "empty": {
+                    "title": "",
+                    "content": ""
+                },
+                "status": {
+                    "failure": "",
+                    "success": ""
+                },
+                "receipt": {
+                    "a11y": {
+                        "preview": ""
+                    },
+                    "loading": "",
+                    "title": "",
+                    "shareButton": "",
+                    "error": "",
+                    "download": "",
+                    "hideFromList": "",
+                    "delete": {
+                        "successful": "",
+                        "failed": ""
+                    },
+                    "hideBanner": {
+                        "title": "",
+                        "content": "",
+                        "accept": ""
+                    }
+                },
+                "details": {
+                    "totalFeeUnknown": "",
+                    "totalFeeUnknownPsp": ""
+                },
+                "error": {
+                    "banner": {
+                        "label": "",
+                        "retryButton": ""
+                    }
+                },
+                "filters": {
+                    "tabs": {
+                        "all": "",
+                        "payer": "",
+                        "debtor": ""
+                    }
+                },
+                "list": {
+                    "empty": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "emptyPayer": {
+                        "title": ""
+                    }
+                }
+            },
+            "details": {
+                "a11y": {
+                    "announce": ""
+                },
+                "payPal": {
+                    "banner": {
+                        "title": "",
+                        "content": ""
+                    }
+                },
+                "pspAlert": {
+                    "description": "",
+                    "action": "",
+                    "title": "",
+                    "explainationContent": ""
+                }
+            },
+            "errors": {
+                "transactionCreationError": ""
+            },
+            "checkout": {
+                "bottomSheet": {
+                    "PAYMENT_REVERSED": {
+                        "title": "",
+                        "payNotice": "",
+                        "waitRefund": "",
+                        "contactSupport": ""
+                    }
+                }
+            }
+        },
+        "itWallet": {
+            "title": "",
+            "credentialName": {
+                "pid": "",
+                "eid": "",
+                "mdl": "",
+                "dc": "",
+                "ts": "",
+                "dgc": ""
+            },
+            "wallet": {
+                "active": "",
+                "inactive": "",
+                "header": ""
+            },
+            "walletId": {
+                "title": "",
+                "show": ""
+            },
+            "card": {
+                "status": {
+                    "expired": "",
+                    "expiring": "",
+                    "pending": "",
+                    "invalid": "",
+                    "verificationExpiring": "",
+                    "verificationExpired": "",
+                    "upgradePending": "",
+                    "unknown": ""
+                },
+                "digital": ""
+            },
+            "support": {
+                "button": "",
+                "supportTitle": "",
+                "supportDescription": "",
+                "phone": "",
+                "landline": "",
+                "chat": "",
+                "email": "",
+                "website": "",
+                "additionalDataTitle": "",
+                "errorCode": ""
+            },
+            "generic": {
+                "error": {
+                    "title": "",
+                    "body": ""
+                },
+                "alert": {
+                    "title": "",
+                    "body": "",
+                    "confirm": "",
+                    "cancel": ""
+                },
+                "dataSource": {
+                    "multi": "",
+                    "single": ""
+                },
+                "placeholders": {
+                    "claimNotAvailable": "",
+                    "claimLabelNotAvailable": "",
+                    "organizationName": ""
+                },
+                "walletNotAvailable": {
+                    "message": "",
+                    "cta": ""
+                }
+            },
+            "verifiableCredentials": {
+                "claims": {
+                    "uniqueId": "",
+                    "givenName": "",
+                    "familyName": "",
+                    "taxIdCode": "",
+                    "birthdate": "",
+                    "placeOfBirth": "",
+                    "expirationDate": "",
+                    "securityLevel": "",
+                    "info": "",
+                    "releasedBy": "",
+                    "attachments": "",
+                    "authenticSource": "",
+                    "mdl": {
+                        "category": "",
+                        "issuedDate": "",
+                        "expirationDate": "",
+                        "restrictionConditions": ""
+                    }
+                }
+            },
+            "discovery": {
+                "banner": {
+                    "home": {
+                        "title": "",
+                        "content": "",
+                        "action": ""
+                    },
+                    "homeActive": {
+                        "title": "",
+                        "content": "",
+                        "action": ""
+                    },
+                    "onboarding": {
+                        "content": "",
+                        "action": ""
+                    },
+                    "onboardingActive": {
+                        "content": "",
+                        "action": ""
+                    }
+                },
+                "title": "",
+                "content": "",
+                "tos": "",
+                "dismissalDialog": {
+                    "title": "",
+                    "body": "",
+                    "confirm": "",
+                    "cancel": ""
+                },
+                "upcomingWalletBanner": {
+                    "title": "",
+                    "content": "",
+                    "action": ""
+                },
+                "alreadyActive": {
+                    "title": "",
+                    "content": "",
+                    "action": ""
+                },
+                "nfcNotSupported": {
+                    "title": "",
+                    "subtitle": "",
+                    "actions": {
+                        "continue": "",
+                        "cancel": "",
+                        "l3": {
+                            "continue": "",
+                            "cancel": ""
+                        }
+                    }
+                },
+                "paywall": {
+                    "badge": "",
+                    "description": "",
+                    "featureHighlights": {
+                        "1": "",
+                        "2": "",
+                        "3": "",
+                        "4": "",
+                        "5": ""
+                    },
+                    "productHighlights": {
+                        "1": {
+                            "title": "",
+                            "content": ""
+                        },
+                        "2": {
+                            "title": "",
+                            "content": ""
+                        },
+                        "3": {
+                            "title": "",
+                            "content": ""
+                        },
+                        "4": {
+                            "title": "",
+                            "content": ""
+                        }
+                    },
+                    "tos": "",
+                    "anchorAction": "",
+                    "primaryAction": "",
+                    "dismissalDialog": {
+                        "title": "",
+                        "body": "",
+                        "confirm": "",
+                        "cancel": ""
+                    }
+                },
+                "offlineBanner": {
+                    "title": "",
+                    "content": "",
+                    "action": ""
+                },
+                "ipzsPrivacy": {
+                    "title": "",
+                    "titleL3": "",
+                    "warning": "",
+                    "button": {
+                        "label": ""
+                    }
+                }
+            },
+            "identification": {
+                "nfc": {
+                    "title": "",
+                    "description": "",
+                    "header": "",
+                    "steps": {
+                        "1": "",
+                        "2": "",
+                        "3": "",
+                        "label": ""
+                    },
+                    "primaryAction": "",
+                    "secondaryAction": ""
+                },
+                "mode": {
+                    "l2": {
+                        "title": "",
+                        "description": "",
+                        "header": "",
+                        "method": {
+                            "spid": {
+                                "title": "",
+                                "subtitle": ""
+                            },
+                            "ciePin": {
+                                "title": "",
+                                "subtitle": ""
+                            },
+                            "cieId": {
+                                "title": "",
+                                "subtitle": ""
+                            }
+                        }
+                    },
+                    "l3": {
+                        "screen": {
+                            "title": "",
+                            "description": "",
+                            "primaryAction": "",
+                            "secondaryAction": "",
+                            "requirements": {
+                                "header": "",
+                                "card": "",
+                                "pin": ""
+                            },
+                            "otherMethods": {
+                                "header": "",
+                                "title": "",
+                                "subtitle": ""
+                            }
+                        },
+                        "bottomSheet": {
+                            "cieId": {
+                                "title": "",
+                                "content": "",
+                                "primaryAction": "",
+                                "secondaryAction": ""
+                            },
+                            "noCie": {
+                                "title": "",
+                                "content": "",
+                                "warnings": [
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "primaryAction": "",
+                                "secondaryAction": ""
+                            }
+                        }
+                    }
+                },
+                "cie": {
+                    "prepare": {
+                        "pin": {
+                            "title": "",
+                            "content": "",
+                            "buttonLink": "",
+                            "cta": ""
+                        },
+                        "card": {
+                            "title": "",
+                            "content": "",
+                            "cta": "",
+                            "buttonLink": ""
+                        }
+                    },
+                    "inputPin": {
+                        "title": "",
+                        "buttonLink": ""
+                    },
+                    "readingCard": {
+                        "android": {
+                            "idle": {
+                                "title": "",
+                                "action": ""
+                            },
+                            "reading": {
+                                "title": "",
+                                "subtitle": "",
+                                "action": ""
+                            },
+                            "completed": {
+                                "title": "",
+                                "action": ""
+                            }
+                        },
+                        "ios": {
+                            "idle": {
+                                "title": "",
+                                "status": ""
+                            },
+                            "reading": {
+                                "title": "",
+                                "subtitle": "",
+                                "status": ""
+                            },
+                            "completed": {
+                                "title": "",
+                                "status": ""
+                            }
+                        }
+                    },
+                    "warning": {
+                        "card": {
+                            "issuance": {
+                                "title": "",
+                                "subtitle": "",
+                                "primaryAction": "",
+                                "secondaryAction": ""
+                            },
+                            "upgrade": {
+                                "title": "",
+                                "subtitle": "",
+                                "primaryAction": "",
+                                "secondaryAction": ""
+                            }
+                        },
+                        "pin": {
+                            "issuance": {
+                                "title": "",
+                                "subtitle": "",
+                                "primaryAction": "",
+                                "secondaryAction": ""
+                            },
+                            "upgrade": {
+                                "title": "",
+                                "subtitle": "",
+                                "primaryAction": "",
+                                "secondaryAction": ""
+                            }
+                        }
+                    },
+                    "bottomSheet": {
+                        "card": {
+                            "title": "",
+                            "content": "",
+                            "primaryAction": "",
+                            "secondaryAction": ""
+                        },
+                        "pin": {
+                            "title": "",
+                            "content": "",
+                            "primaryAction": "",
+                            "secondaryAction": ""
+                        }
+                    },
+                    "failure": {
+                        "wrongCard": {
+                            "title": "",
+                            "subtitle": ""
+                        },
+                        "tagLost": {
+                            "title": "",
+                            "subtitle": ""
+                        },
+                        "expired": {
+                            "title": "",
+                            "subtitle": ""
+                        },
+                        "wrongPin1": {
+                            "title": "",
+                            "subtitle": "",
+                            "secondaryAction": ""
+                        },
+                        "wrongPin2": {
+                            "title": "",
+                            "subtitle": "",
+                            "secondaryAction": ""
+                        },
+                        "locked": {
+                            "title": "",
+                            "subtitle": "",
+                            "secondaryAction": ""
+                        },
+                        "generic": {
+                            "title": "",
+                            "subtitle": ""
+                        }
+                    }
+                },
+                "cieId": {
+                    "loading": {
+                        "title": "",
+                        "subtitle": "",
+                        "cancel": ""
+                    }
+                }
+            },
+            "issuance": {
+                "credentialAuth": {
+                    "title": "",
+                    "subtitle": "",
+                    "requiredClaims": "",
+                    "disclaimer": {
+                        "0": "",
+                        "1": ""
+                    },
+                    "tos": ""
+                },
+                "eidPreview": {
+                    "title": "",
+                    "subtitle": "",
+                    "subtitleL3": "",
+                    "actions": {
+                        "primary": "",
+                        "secondary": ""
+                    }
+                },
+                "credentialPreview": {
+                    "loading": "",
+                    "title": "",
+                    "bottomSheet": {
+                        "about": {
+                            "title": "",
+                            "subtitle": ""
+                        },
+                        "authSource": {
+                            "title": "",
+                            "subtitle": ""
+                        }
+                    },
+                    "actions": {
+                        "primary": "",
+                        "secondary": ""
+                    }
+                },
+                "eidResult": {
+                    "successL2": {
+                        "title": "",
+                        "subtitle": "",
+                        "toast": "",
+                        "actions": {
+                            "continue": "",
+                            "continueAlt": "",
+                            "close": ""
+                        }
+                    },
+                    "success": {
+                        "title": "",
+                        "subtitle": "",
+                        "actions": {
+                            "continue": ""
+                        }
+                    }
+                },
+                "emptyWallet": {
+                    "itwReadyBanner": {
+                        "content": ""
+                    }
+                },
+                "credentialResult": {
+                    "toast": ""
+                },
+                "notMatchingIdentityError": {
+                    "title": "",
+                    "body": "",
+                    "primaryAction": "",
+                    "secondaryAction": ""
+                },
+                "genericError": {
+                    "title": "",
+                    "body": "",
+                    "primaryAction": ""
+                },
+                "notEntitledCredentialError": {
+                    "title": "",
+                    "body": "",
+                    "primaryAction": ""
+                },
+                "asyncCredentialError": {
+                    "title": "",
+                    "body": "",
+                    "primaryAction": ""
+                },
+                "issuerNotTrustedCommonError": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": "",
+                    "secondaryAction": ""
+                },
+                "credentialAlreadyAdded": {
+                    "title": "",
+                    "body": "",
+                    "primaryAction": ""
+                },
+                "walletInstanceNotActive": {
+                    "title": "",
+                    "body": "",
+                    "bodyBold": "",
+                    "primaryAction": "",
+                    "secondaryAction": ""
+                },
+                "credentialNotFound": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "upcomingCredential": {
+                    "title": "",
+                    "subtitle": "",
+                    "primaryAction": ""
+                },
+                "cieNotRegistered": {
+                    "title": "",
+                    "subtitle": ""
+                }
+            },
+            "notMatchingIdentityScreen": {
+                "title": "",
+                "message": "",
+                "banner": {
+                    "title": ""
+                },
+                "alert": {
+                    "title": "",
+                    "message": ""
+                }
+            },
+            "unsupportedDevice": {
+                "text": "",
+                "moreInfo": "",
+                "error": {
+                    "title": "",
+                    "body": "",
+                    "primaryAction": "",
+                    "secondaryAction": ""
+                }
+            },
+            "presentation": {
+                "alerts": {
+                    "statusAction": "",
+                    "mdl": {
+                        "content": "",
+                        "contentL3": ""
+                    },
+                    "ehc": {
+                        "content": ""
+                    },
+                    "edc": {
+                        "content": ""
+                    },
+                    "expired": {
+                        "content": "",
+                        "action": ""
+                    },
+                    "expiring": {
+                        "content": ""
+                    },
+                    "verificationExpiring": {
+                        "content": ""
+                    }
+                },
+                "bottomSheets": {
+                    "eidInfo": {
+                        "title": "",
+                        "titleExpired": "",
+                        "contentTop": "",
+                        "contentBottom": "",
+                        "triggerLabel": "",
+                        "alert": {
+                            "documents": {
+                                "valid": "",
+                                "expiring": "",
+                                "expired": "",
+                                "action": ""
+                            },
+                            "itw": {
+                                "valid": "",
+                                "expiring": "",
+                                "expired": "",
+                                "action": ""
+                            }
+                        }
+                    },
+                    "mDL": {
+                        "expiring": {
+                            "title": "",
+                            "content": ""
+                        }
+                    },
+                    "EuropeanHealthInsuranceCard": {
+                        "expiring": {
+                            "title": "",
+                            "content": ""
+                        }
+                    },
+                    "EuropeanDisabilityCard": {
+                        "expiring": {
+                            "title": "",
+                            "content": ""
+                        }
+                    }
+                },
+                "credentialDetails": {
+                    "card": {
+                        "front": "",
+                        "back": "",
+                        "showFront": "",
+                        "showBack": "",
+                        "hideValues": "",
+                        "showValues": ""
+                    },
+                    "personalDataTitle": "",
+                    "documentDataTitle": "",
+                    "lastUpdated": "",
+                    "boolClaim": {
+                        "true": "",
+                        "false": ""
+                    },
+                    "hiddenClaim": "",
+                    "fiscalCode": {
+                        "label": "",
+                        "action": ""
+                    },
+                    "status": {
+                        "valid": "",
+                        "invalid": "",
+                        "expired": "",
+                        "expiring": ""
+                    },
+                    "actions": {
+                        "removeFromWallet": "",
+                        "requestAssistance": "",
+                        "showClaimValues": "",
+                        "hideClaimValues": "",
+                        "openIPatente": ""
+                    },
+                    "dialogs": {
+                        "remove": {
+                            "title": "",
+                            "content": "",
+                            "confirm": ""
+                        }
+                    },
+                    "toast": {
+                        "removed": ""
+                    },
+                    "verificationExpired": {
+                        "title": "",
+                        "content": "",
+                        "primaryAction": ""
+                    },
+                    "mdl": {
+                        "walletUpgradeBanner": {
+                            "title": "",
+                            "content": "",
+                            "action": ""
+                        }
+                    }
+                },
+                "ctas": {
+                    "trustmark": "",
+                    "openPdf": "",
+                    "shareButton": "",
+                    "fiscalCode": "",
+                    "showQRCode": ""
+                },
+                "eid": {
+                    "verificationExpired": {
+                        "title": "",
+                        "contentStart": "",
+                        "contentBold": "",
+                        "contentEnd": "",
+                        "primaryAction": ""
+                    }
+                },
+                "statusAttestationUnknown": {
+                    "title": "",
+                    "content": "",
+                    "primaryAction": ""
+                },
+                "selectiveDisclosure": {
+                    "title": "",
+                    "subtitle": "",
+                    "requiredClaims": "",
+                    "optionalClaims": "",
+                    "claimUnavailable": "",
+                    "optionalClaimsAlert": "",
+                    "missingClaimsAlert": "",
+                    "disclaimer": [
+                        "",
+                        ""
+                    ],
+                    "tos": ""
+                },
+                "remote": {
+                    "loadingScreen": {
+                        "request": "",
+                        "response": "",
+                        "subtitle": ""
+                    },
+                    "walletInactiveScreen": {
+                        "title": "",
+                        "subtitle": "",
+                        "primaryAction": "",
+                        "secondaryAction": "",
+                        "alert": {
+                            "body": ""
+                        }
+                    },
+                    "missingCredentialsScreen": {
+                        "title": {
+                            "zero": "",
+                            "one": "",
+                            "two": "",
+                            "few": "",
+                            "many": "",
+                            "other": ""
+                        },
+                        "subtitle": "",
+                        "primaryAction": {
+                            "zero": "",
+                            "one": "",
+                            "two": "",
+                            "few": "",
+                            "many": "",
+                            "other": ""
+                        },
+                        "secondaryAction": ""
+                    },
+                    "invalidCredentialsScreen": {
+                        "title": {
+                            "zero": "",
+                            "one": "",
+                            "two": "",
+                            "few": "",
+                            "many": "",
+                            "other": ""
+                        },
+                        "subtitle": {
+                            "zero": "",
+                            "one": "",
+                            "two": "",
+                            "few": "",
+                            "many": "",
+                            "other": ""
+                        },
+                        "primaryAction": ""
+                    },
+                    "deepLinkValidationErrorScreen": {
+                        "title": "",
+                        "subtitle": "",
+                        "primaryAction": "",
+                        "secondaryAction": ""
+                    },
+                    "eidExpiredScreen": {
+                        "title": "",
+                        "subtitle": "",
+                        "primaryAction": "",
+                        "secondaryAction": ""
+                    },
+                    "unexpectedErrorScreen": {
+                        "title": "",
+                        "subtitle": "",
+                        "primaryAction": "",
+                        "secondaryAction": ""
+                    },
+                    "relyingParty": {
+                        "genericError": {
+                            "title": "",
+                            "subtitle": "",
+                            "primaryAction": "",
+                            "secondaryAction": ""
+                        },
+                        "invalidAuthResponse": {
+                            "title": "",
+                            "subtitle": "",
+                            "primaryAction": "",
+                            "secondaryAction": ""
+                        },
+                        "invalidRequestObject": {
+                            "title": "",
+                            "subtitle": "",
+                            "primaryAction": ""
+                        }
+                    },
+                    "untrustedRpScreen": {
+                        "title": "",
+                        "subtitle": "",
+                        "primaryAction": "",
+                        "secondaryAction": "",
+                        "bottomSheet": {
+                            "title": "",
+                            "contentTop": "",
+                            "subtitle": "",
+                            "contentBottom": "",
+                            "primaryAction": ""
+                        }
+                    },
+                    "purpose": "",
+                    "success": {
+                        "title": "",
+                        "subtitle": "",
+                        "cta": ""
+                    }
+                },
+                "proximity": {
+                    "grantPermissions": {
+                        "title": "",
+                        "subtitle": "",
+                        "listItems": {
+                            "title": "",
+                            "step1": {
+                                "label": "",
+                                "value": ""
+                            },
+                            "step2": {
+                                "label": "",
+                                "value": ""
+                            },
+                            "step3": {
+                                "label": "",
+                                "value": ""
+                            },
+                            "step4": {
+                                "label": "",
+                                "value": ""
+                            }
+                        },
+                        "actions": {
+                            "primary": "",
+                            "secondary": ""
+                        }
+                    },
+                    "activateBluetooth": {
+                        "title": "",
+                        "subtitle": "",
+                        "listItems": {
+                            "title": "",
+                            "step1": {
+                                "label": "",
+                                "value": ""
+                            },
+                            "step2": {
+                                "label": "",
+                                "value": ""
+                            },
+                            "step3": {
+                                "label": "",
+                                "value": ""
+                            }
+                        },
+                        "actions": {
+                            "primary": "",
+                            "secondary": ""
+                        }
+                    },
+                    "permissionsRequired": {
+                        "alert": {
+                            "title": "",
+                            "message": "",
+                            "text": ""
+                        }
+                    },
+                    "bluetoothRequired": {
+                        "alert": {
+                            "title": "",
+                            "message": "",
+                            "text": ""
+                        }
+                    },
+                    "mdl": {
+                        "bottomSheet": {
+                            "title": "",
+                            "body": "",
+                            "error": {
+                                "message": "",
+                                "action": ""
+                            }
+                        }
+                    },
+                    "loadingScreen": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "loadingStepScreen": {
+                        "initial": {
+                            "title": "",
+                            "subtitle": ""
+                        },
+                        "reminder": {
+                            "title": "",
+                            "subtitle": ""
+                        },
+                        "final": {
+                            "title": "",
+                            "subtitle": ""
+                        }
+                    },
+                    "selectiveDisclosure": {
+                        "title": "",
+                        "subtitle": "",
+                        "requiredClaims": "",
+                        "purpose": "",
+                        "disclaimer": [
+                            "",
+                            ""
+                        ],
+                        "tos": "",
+                        "alert": {
+                            "message": ""
+                        }
+                    },
+                    "relyingParty": {
+                        "genericError": {
+                            "title": "",
+                            "subtitle": "",
+                            "primaryAction": ""
+                        },
+                        "timeout": {
+                            "title": "",
+                            "subtitle": "",
+                            "primaryAction": ""
+                        }
+                    },
+                    "success": {
+                        "title": "",
+                        "subtitle": ""
+                    }
+                },
+                "itWalletId": {
+                    "description": "",
+                    "listItemHeader": "",
+                    "cta": {
+                        "revoke": ""
+                    },
+                    "dialog": {
+                        "revoke": {
+                            "title": "",
+                            "message": "",
+                            "confirm": "",
+                            "cancel": ""
+                        }
+                    }
+                }
+            },
+            "trustmark": {
+                "description": "",
+                "qrCode": "",
+                "timer": {
+                    "expiresIn": "",
+                    "expired": ""
+                },
+                "failure": {
+                    "description": "",
+                    "action": "",
+                    "toast": ""
+                }
+            },
+            "walletRevocation": {
+                "cta": "",
+                "confirmScreen": {
+                    "title": "",
+                    "subtitle": "",
+                    "action": ""
+                },
+                "loadingScreen": {
+                    "title": "",
+                    "subtitle": ""
+                },
+                "failureScreen": {
+                    "title": "",
+                    "subtitle": ""
+                }
+            },
+            "eidDetail": {
+                "title": "",
+                "content": "",
+                "header": {
+                    "title": ""
+                },
+                "cta": ""
+            },
+            "feedback": {
+                "banner": {
+                    "title": "",
+                    "content": "",
+                    "action": ""
+                }
+            },
+            "walletInstanceRevoked": {
+                "alert": {
+                    "cta": "",
+                    "closeButton": "",
+                    "closeButtonAlt": "",
+                    "revokedByWalletProvider": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "newWalletInstanceCreated": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "revokedByUser": {
+                        "title": "",
+                        "content": ""
+                    }
+                }
+            },
+            "offline": {
+                "device_offline": {
+                    "alert": {
+                        "content": "",
+                        "action": ""
+                    },
+                    "modal": {
+                        "title": "",
+                        "content": "",
+                        "footerAction": ""
+                    }
+                },
+                "session_expired": {
+                    "alert": {
+                        "content": "",
+                        "action": ""
+                    },
+                    "modal": {
+                        "title": "",
+                        "content": "",
+                        "footerAction": ""
+                    }
+                },
+                "session_refresh": {
+                    "alert": {
+                        "content": "",
+                        "action": ""
+                    },
+                    "modal": {
+                        "title": "",
+                        "content": "",
+                        "footerAction": ""
+                    }
+                },
+                "back_online": {
+                    "alert": {
+                        "content": "",
+                        "action": ""
+                    }
+                },
+                "gate": {
+                    "limitWarning": {
+                        "title": "",
+                        "subtitle": "",
+                        "primaryAction": ""
+                    },
+                    "limitReached": {
+                        "title": "",
+                        "subtitle": "",
+                        "primaryAction": ""
+                    }
+                },
+                "action": "",
+                "failure": ""
+            },
+            "upgrade": {
+                "banner": {
+                    "title": "",
+                    "description": "",
+                    "action": ""
+                }
+            },
+            "playgrounds": {
+                "environment": {
+                    "toggle": {
+                        "pre": {
+                            "value": "",
+                            "description": ""
+                        },
+                        "prod": {
+                            "value": "",
+                            "description": ""
+                        }
+                    },
+                    "alert": {
+                        "title": "",
+                        "content": ""
+                    },
+                    "banner": {
+                        "content": "",
+                        "action": ""
+                    },
+                    "bottom_sheet": {
+                        "title": "",
+                        "content": "",
+                        "action": ""
+                    }
+                },
+                "walletL3": {
+                    "alert": {
+                        "title": "",
+                        "content": ""
+                    }
+                }
+            }
+        }
+    },
+    "support": {
+        "ticketList": {
+            "noTicket": {
+                "title": "",
+                "body": ""
+            }
+        },
+        "helpCenter": {
+            "header": "",
+            "cta": {
+                "contactSupport": "",
+                "seeReports": ""
+            },
+            "supportComponent": {
+                "title": "",
+                "subtitle": "",
+                "adviceMessage": ""
+            }
+        },
+        "panicMode": {
+            "title": "",
+            "body": ""
+        },
+        "errorGetZendeskToken": {
+            "title": "",
+            "subtitle": ""
+        },
+        "askPermissions": {
+            "nameSurname": "",
+            "fiscalCode": "",
+            "emailAddress": "",
+            "deviceAndOS": "",
+            "ipAddress": "",
+            "ipAddressValue": "",
+            "appVersionsHistory": "",
+            "appVersionsHistoryValue": "",
+            "identityProvider": "",
+            "navigationData": "",
+            "navigationDataValue": "",
+            "devicePerformance": "",
+            "devicePerformanceDataAndroid": "",
+            "devicePerformanceDataiOS": "",
+            "stock": "",
+            "stockValue": "",
+            "card": "",
+            "cardValue": "",
+            "fci": "",
+            "fciValue": "",
+            "prominentDisclosure": "",
+            "prominentDisclosureData": "",
+            "header": "",
+            "listTitle": "",
+            "title": "",
+            "listBody": "",
+            "privacyLink": "",
+            "body": "",
+            "listHeader": "",
+            "cta": {
+                "allow": "",
+                "denies": ""
+            },
+            "toast": {
+                "emailClientNotFound": ""
+            }
+        },
+        "chooseCategory": {
+            "header": "",
+            "title": {
+                "category": "",
+                "subCategory": ""
+            },
+            "subTitle": {
+                "category": ""
+            }
+        }
+    },
+    "idpay": {
+        "barCode": {
+            "resultScreen": {
+                "success": {
+                    "header": "",
+                    "body": "",
+                    "validUpTo": "",
+                    "expiresIn": "",
+                    "copyCodeCta": "",
+                    "expired": {
+                        "header": "",
+                        "CTA": ""
+                    }
+                },
+                "error": {
+                    "generic": {
+                        "body": ""
+                    }
+                },
+                "loading": {
+                    "body": "",
+                    "subtitle": ""
+                }
+            }
+        },
+        "code": {
+            "reset": {
+                "title": "",
+                "body": ""
+            },
+            "onboarding": {
+                "header": "",
+                "body1": "",
+                "bodyBold": "",
+                "bodyCta": "",
+                "banner": {
+                    "header": "",
+                    "body": ""
+                },
+                "title": "",
+                "description": "",
+                "buttons": {
+                    "start": "",
+                    "howItWorks": ""
+                }
+            },
+            "renew": {
+                "alert": {
+                    "title": "",
+                    "body": ""
+                },
+                "screen": {
+                    "header": "",
+                    "body": "",
+                    "link": "",
+                    "generateCTA": ""
+                }
+            }
+        },
+        "wallet": {
+            "preview": {
+                "validThrough": "",
+                "showAll": ""
+            },
+            "initiativePairing": {
+                "navigation": "",
+                "header": "",
+                "pendingStatus": "",
+                "errorToasts": {
+                    "enrollment": "",
+                    "removal": ""
+                }
+            }
+        },
+        "initiative": {
+            "details": {
+                "initiativeCard": {
+                    "availableAmount": "",
+                    "refundRequestedAmount": "",
+                    "validUntil": "",
+                    "expiresOn": "",
+                    "toRefund": "",
+                    "statusLabels": {
+                        "REFUNDABLE": "",
+                        "NOT_REFUNDABLE": "",
+                        "NOT_REFUNDABLE_ONLY_IBAN": "",
+                        "NOT_REFUNDABLE_ONLY_INSTRUMENT": "",
+                        "UNSUBSCRIBED": "",
+                        "SUSPENDED": ""
+                    }
+                },
+                "initiativeDetailsScreen": {
+                    "notConfigured": {
+                        "header": "",
+                        "footer": ""
+                    },
+                    "configured": {
+                        "lastUpdated": "",
+                        "errorAlerts": {
+                            "NOT_REFUNDABLE_ONLY_IBAN": {
+                                "content": "",
+                                "action": ""
+                            },
+                            "NOT_REFUNDABLE_ONLY_INSTRUMENT": {
+                                "content": "",
+                                "action": ""
+                            },
+                            "NOT_REFUNDABLE": {
+                                "content": "",
+                                "action": ""
+                            }
+                        },
+                        "yourOperations": "",
+                        "yourOperationsSubtitle": "",
+                        "settings": {
+                            "showMore": "",
+                            "header": "",
+                            "associatedPaymentMethods": "",
+                            "methods": {
+                                "zero": "",
+                                "one": "",
+                                "two": "",
+                                "few": "",
+                                "many": "",
+                                "other": ""
+                            },
+                            "selectedIBAN": "",
+                            "actionsRequired": ""
+                        },
+                        "startConfigurationCTA": "",
+                        "operationsList": {
+                            "header": "",
+                            "title": "",
+                            "lastUpdated": "",
+                            "operationDescriptions": {
+                                "TRANSACTION": "",
+                                "TRANSACTION_ONLINE": "",
+                                "ONBOARDING": "",
+                                "ADD_IBAN": "",
+                                "ADD_INSTRUMENT": "",
+                                "DELETE_INSTRUMENT": "",
+                                "REJECTED_ADD_INSTRUMENT": "",
+                                "REJECTED_DELETE_INSTRUMENT": "",
+                                "REFUND": "",
+                                "SUSPENDED": "",
+                                "READMITTED": "",
+                                "CIE": "",
+                                "UNSUBSCRIBED": ""
+                            }
+                        }
+                    }
+                }
+            },
+            "discountDetails": {
+                "bottomSheetOptions": {
+                    "scanQr": "",
+                    "generateBarcode": ""
+                },
+                "authorizeButton": "",
+                "addExpenseButton": "",
+                "IDPayCode": {
+                    "banner": {
+                        "title": "",
+                        "body": "",
+                        "action": "",
+                        "close": ""
+                    },
+                    "failureScreen": {
+                        "cta": "",
+                        "header": {
+                            "GENERIC": ""
+                        }
+                    },
+                    "successScreen": {
+                        "header": "",
+                        "body": "",
+                        "cta": ""
+                    }
+                }
+            },
+            "beneficiaryDetails": {
+                "infobox": {
+                    "title": "",
+                    "rulesButton": ""
+                },
+                "infoModal": {
+                    "title": "",
+                    "button": ""
+                },
+                "spentUntilNow": "",
+                "summary": "",
+                "status": "",
+                "endDate": "",
+                "amount": "",
+                "toBeRefunded": "",
+                "refunded": "",
+                "spendingRules": "",
+                "spendFrom": "",
+                "spendTo": "",
+                "spendPercentage": "",
+                "spendValue": "",
+                "enrollmentDetails": "",
+                "enrollmentDate": "",
+                "protocolNumber": "",
+                "lastUpdate": "",
+                "buttons": {
+                    "privacy": "",
+                    "unsubscribe": "",
+                    "requestHelp": ""
+                }
+            },
+            "operationDetails": {
+                "discount": {
+                    "labels": {
+                        "AUTHORIZED": "",
+                        "CANCELLED": "",
+                        "REWARDED": ""
+                    },
+                    "details": {
+                        "alerts": {
+                            "AUTHORIZED": "",
+                            "CANCELLED": ""
+                        },
+                        "labels": {
+                            "business": "",
+                            "status": "",
+                            "totalAmount": "",
+                            "idpayAmount": "",
+                            "transactionID": ""
+                        }
+                    }
+                },
+                "title": {
+                    "TRANSACTION": "",
+                    "REVERSAL": "",
+                    "PAID_REFUND": "",
+                    "REJECTED_REFUND": ""
+                },
+                "transaction": {
+                    "instrument": "",
+                    "maskedPan": "",
+                    "amountLabel": "",
+                    "accruedAmountLabel": "",
+                    "infoTitle": "",
+                    "date": "",
+                    "circuit": "",
+                    "acquirerId": "",
+                    "issuerId": "",
+                    "reversalAdvice": ""
+                },
+                "refund": {
+                    "iban": "",
+                    "amount": "",
+                    "resultLabel": "",
+                    "result": {
+                        "PAID_REFUND": "",
+                        "REJECTED_REFUND": ""
+                    },
+                    "rejectedAdvice": {
+                        "text": "",
+                        "editIban": ""
+                    },
+                    "period": "",
+                    "date": "",
+                    "cro": ""
+                },
+                "errorBody": ""
+            },
+            "cie": {
+                "bottomSheet": {
+                    "title": "",
+                    "featureOne": "",
+                    "featureTwo": "",
+                    "featureThree": ""
+                }
+            }
+        },
+        "onboarding": {
+            "success": {
+                "pleaseWait": "",
+                "requestSent": {
+                    "title": "",
+                    "body": ""
+                },
+                "button": {
+                    "continue": ""
+                }
+            },
+            "failure": {
+                "button": {
+                    "goToInitiative": ""
+                },
+                "message": {
+                    "GENERIC": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "INITIATIVE_NOT_FOUND": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "UNSATISFIED_REQUIREMENTS": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "USER_NOT_IN_WHITELIST": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "INITIATIVE_NOT_STARTED": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "INITIATIVE_ENDED": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "BUDGET_EXHAUSTED": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "USER_UNSUBSCRIBED": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "USER_ONBOARDED": {
+                        "title": ""
+                    },
+                    "NOT_ELIGIBLE": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "ON_EVALUATION": {
+                        "title": "",
+                        "subtitle": ""
+                    }
+                }
+            },
+            "headerTitle": "",
+            "beforeContinue": {
+                "text": "",
+                "requestBonus": ""
+            },
+            "navigation": {
+                "header": ""
+            },
+            "PDNDPrerequisites": {
+                "fallbackInitiativeName": "",
+                "prerequisites": {
+                    "info": {
+                        "header": "",
+                        "body": "",
+                        "understoodCTA": ""
+                    }
+                },
+                "title": "",
+                "subtitle": "",
+                "code": {
+                    "ISEE": "",
+                    "BIRTHDATE": "",
+                    "RESIDENCE": ""
+                },
+                "operator": {
+                    "EQ": "",
+                    "NOT_EQ": "",
+                    "LT": "",
+                    "LE": "",
+                    "GT": "",
+                    "GE": "",
+                    "BTW_CLOSED": "",
+                    "BTW_OPEN": ""
+                }
+            },
+            "inputPrerequisites": {
+                "emptyValueError": ""
+            },
+            "multiPrerequisites": {
+                "header": "",
+                "emptyValueError": ""
+            },
+            "boolPrerequisites": {
+                "header": "",
+                "emptyValueError": ""
+            },
+            "enableMessages": {
+                "title": "",
+                "subtitle": "",
+                "confirmAction": "",
+                "cancelAction": ""
+            },
+            "enableNotification": {
+                "title": "",
+                "subtitle": "",
+                "action": "",
+                "deny": "",
+                "success": "",
+                "advice": ""
+            },
+            "preferences": {
+                "enableEmailBanner": {
+                    "title": "",
+                    "content": "",
+                    "cta": "",
+                    "successOutcome": ""
+                }
+            },
+            "loading": {
+                "subtitle": "",
+                "title": ""
+            }
+        },
+        "configuration": {
+            "failureStates": {
+                "GENERIC": "",
+                "INITIATIVE_ERROR": "",
+                "IBAN_LIST_LOAD_FAILURE": "",
+                "IBAN_ENROLL_FAILURE": "",
+                "INSTRUMENTS_LIST_LOAD_FAILURE": "",
+                "INSTRUMENT_ENROLL_FAILURE": "",
+                "INSTRUMENT_DELETE_FAILURE": "",
+                "SESSION_EXPIRED": ""
+            },
+            "headerTitle": "",
+            "intro": {
+                "title": "",
+                "body": "",
+                "requiredData": {
+                    "title": "",
+                    "ibanTitle": "",
+                    "ibanSubtitle": "",
+                    "instrumentTitle": "",
+                    "instrumentSubtitle": ""
+                },
+                "buttons": {
+                    "continue": ""
+                }
+            },
+            "instruments": {
+                "paymentMethods": {
+                    "badge": {
+                        "active": "",
+                        "pending": ""
+                    },
+                    "header": "",
+                    "body": "",
+                    "IDPAYCODE": {
+                        "title": "",
+                        "description": "",
+                        "actionItem": ""
+                    },
+                    "APP_IO_PAYMENT": {
+                        "title": "",
+                        "description": "",
+                        "actionItem": ""
+                    }
+                },
+                "title": "",
+                "header": "",
+                "body": "",
+                "footer": "",
+                "instrumentStatus": {
+                    "active": "",
+                    "pendingActivation": "",
+                    "pendingDeactivation": ""
+                },
+                "buttons": {
+                    "skip": "",
+                    "continue": "",
+                    "addMethod": ""
+                },
+                "enrollmentSheet": {
+                    "header": "",
+                    "bodyFirst": "",
+                    "bodyBold": "",
+                    "bodyLast": "",
+                    "buttons": {
+                        "activate": "",
+                        "cancel": ""
+                    }
+                }
+            },
+            "associationSuccess": {
+                "title": "",
+                "body": "",
+                "noInstrumentsBody": "",
+                "buttons": {
+                    "continue": "",
+                    "skip": "",
+                    "addPaymentMethod": ""
+                }
+            },
+            "iban": {
+                "title": "",
+                "landing": {
+                    "header": "",
+                    "body": "",
+                    "bodyLink": "",
+                    "modal": {
+                        "title": "",
+                        "content": "",
+                        "button": ""
+                    }
+                },
+                "onboarding": {
+                    "header": "",
+                    "body": "",
+                    "bodyLink": "",
+                    "nameAssignInput": "",
+                    "bottomLabel": "",
+                    "error": {
+                        "iban": "",
+                        "name": ""
+                    }
+                },
+                "enrollment": {
+                    "header": "",
+                    "subTitle": "",
+                    "footer": ""
+                },
+                "button": {
+                    "addNew": ""
+                },
+                "updateToast": ""
+            }
+        },
+        "unsubscription": {
+            "headerTitle": "",
+            "title": "",
+            "subtitle": "",
+            "checks": {
+                "1": {
+                    "title": "",
+                    "content": ""
+                },
+                "2": {
+                    "title": "",
+                    "content": ""
+                },
+                "3": {
+                    "title": "",
+                    "content": ""
+                },
+                "4": {
+                    "title": "",
+                    "content": ""
+                }
+            },
+            "button": {
+                "continue": ""
+            },
+            "removeAlert": {
+                "title": "",
+                "content": ""
+            },
+            "modal": {
+                "title": "",
+                "content": ""
+            },
+            "success": {
+                "title": "",
+                "content": "",
+                "button": ""
+            },
+            "failure": {
+                "title": "",
+                "content": "",
+                "button": ""
+            }
+        },
+        "payment": {
+            "authorization": {
+                "header": "",
+                "discountedAmount": "",
+                "amount": "",
+                "businessName": "",
+                "dateTime": "",
+                "initiativeName": "",
+                "availableAmount": "",
+                "error": "",
+                "deny": ""
+            },
+            "result": {
+                "success": {
+                    "title": ""
+                },
+                "cancelled": {
+                    "title": ""
+                },
+                "failure": {
+                    "GENERIC": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "TRANSACTION_EXPIRED": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "USER_SUSPENDED": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "USER_NOT_ONBOARDED": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "USER_UNSUBSCRIBED": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "ALREADY_AUTHORIZED": {
+                        "title": ""
+                    },
+                    "BUDGET_EXHAUSTED": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "ALREADY_ASSIGNED": {
+                        "title": "",
+                        "subtitle": ""
+                    },
+                    "INVALID_DATE": {
+                        "title": "",
+                        "subtitle": ""
+                    }
+                }
+            },
+            "manualInput": {
+                "title": "",
+                "subtitle": "",
+                "input": "",
+                "button": ""
+            }
+        }
+    },
+    "barcodeScan": {
+        "error": "",
+        "tabs": {
+            "scan": "",
+            "upload": "",
+            "input": "",
+            "a11y": {
+                "scan": "",
+                "upload": "",
+                "input": ""
+            }
+        },
+        "upload": {
+            "image": "",
+            "file": ""
+        },
+        "manual": {
+            "authorize": "",
+            "notice": ""
+        },
+        "permissions": {
+            "undefined": {
+                "title": "",
+                "label": "",
+                "action": ""
+            },
+            "denied": {
+                "title": "",
+                "label": "",
+                "action": ""
+            }
+        },
+        "multipleResultsAlert": {
+            "title": "",
+            "body": "",
+            "action": ""
+        }
+    },
+    "unsupportedDevice": {
+        "warning": "",
+        "title": "",
+        "subtitle": "",
+        "cta": {
+            "faq": ""
+        }
+    },
+    "fastLogin": {
+        "loadingScreen": {
+            "title": ""
+        },
+        "userInteraction": {
+            "sessionExpired": {
+                "noPin": {
+                    "title": "",
+                    "subtitle": "",
+                    "submitButtonTitle": ""
+                },
+                "continueNavigation": {
+                    "title": "",
+                    "subtitle": "",
+                    "submitButtonTitle": "",
+                    "cancelButtonTitle": ""
+                },
+                "transientError": {
+                    "title": "",
+                    "subtitle": "",
+                    "submitButtonTitle": ""
+                }
+            }
+        },
+        "whatsNew": {
+            "title": "",
+            "subtitle": ""
+        }
+    },
+    "loginFeatures": {
+        "loginPreferences": {
+            "expirationBanner": {
+                "title": "",
+                "content": "",
+                "action": {
+                    "label": ""
+                }
+            }
+        }
+    },
+    "whatsNew": {
+        "title": ""
+    },
+    "bonusCard": {
+        "validUntil": "",
+        "expiring": "",
+        "expired": "",
+        "paused": "",
+        "removed": ""
+    },
+    "transaction": {
+        "details": {
+            "error": {
+                "title": ""
+            },
+            "title": "",
+            "totalAmount": "",
+            "totalFee": "",
+            "totalFeePsp": "",
+            "totalFeeNoPsp": "",
+            "bannerImported": {
+                "content": ""
+            },
+            "info": {
+                "title": "",
+                "pspName": "",
+                "dateAndHour": "",
+                "transactionId": "",
+                "paymentMethod": "",
+                "authCode": "",
+                "rrn": "",
+                "executedBy": "",
+                "headedTo": "",
+                "alert": {
+                    "content": ""
+                }
+            },
+            "operation": {
+                "amount": "",
+                "creditor": "",
+                "debtor": "",
+                "iuv": "",
+                "subject": "",
+                "noticeCode": "",
+                "noticeCodeAccessible": "",
+                "taxCode": ""
+            }
+        }
+    },
+    "FIMS": {
+        "updateApp": {
+            "header": "",
+            "body": ""
+        },
+        "history": {
+            "errorStates": {
+                "dataUnavailable": "",
+                "ko": {
+                    "title": "",
+                    "body": ""
+                },
+                "toast": ""
+            },
+            "emptyBody": "",
+            "exportData": {
+                "alerts": {
+                    "areYouSure": "",
+                    "alreadyExporting": {
+                        "title": "",
+                        "body": ""
+                    }
+                },
+                "CTA": "",
+                "successToast": "",
+                "errorToast": ""
+            },
+            "profileCTA": {
+                "title": "",
+                "subTitle": ""
+            },
+            "historyScreen": {
+                "header": "",
+                "body": ""
+            }
+        },
+        "loadingScreen": {
+            "abort": {
+                "title": ""
+            },
+            "consents": {
+                "title": ""
+            },
+            "idle": {
+                "title": ""
+            },
+            "fastLogin_forced_restart": {
+                "title": ""
+            },
+            "in-app-browser-loading": {
+                "title": ""
+            },
+            "subtitle": ""
+        },
+        "consentsScreen": {
+            "errorStates": {
+                "authentication": {
+                    "body": "",
+                    "title": ""
+                },
+                "general": {
+                    "body": "",
+                    "title": ""
+                },
+                "missingInAppBrowser": {
+                    "body": "",
+                    "title": ""
+                }
+            },
+            "inAppBrowserError": "",
+            "title": "",
+            "subtitle": "",
+            "subtitle2": "",
+            "requiredData": "",
+            "privacy1": "",
+            "privacyCta": "",
+            "bottomSheet": {
+                "title": "",
+                "body": "",
+                "body2": "",
+                "bodyPrivacy": ""
+            }
+        }
+    },
+    "pageNotFound": {
+        "title": "",
+        "subtitle": ""
+    }
+}
