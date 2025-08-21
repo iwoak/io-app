@@ -1,0 +1,8 @@
+{
+    "welcome_header": "Hello world!",
+    "messageDetails": {
+        "cta": {
+            "pushActivation": "Attiva per leggere la notifica"
+        }
+    }
+}
